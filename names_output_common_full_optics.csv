@@ -1,0 +1,1154 @@
+"ID","pubYear","best_common","common_length","common_first_3","common_last_3","common_last_2","best_full","full_first","full_mid","full_last","full_word_count","stat","bio","optics_count"
+30304689,2018,"10kip",5,"10k","kip","ip","10000 immunomes project","10000","immunomes","project",3,"opaque","opaque",1006
+33175170,2021,"2019ncovr",9,"201","ovr","vr","2019 novel coronavirus resource","2019","novel coronavirus","resource",4,"translucent","translucent",17
+24526713,2014,"3dgd",4,"3dg","dgd","gd","3d genome database","3d","genome","database",3,"opaque","opaque",1006
+33245777,2021,"3div",4,"3di","div","iv","3d-genome interaction viewer and database","3d-genome","interaction viewer and","database",6,"opaque","opaque",1006
+28413782,2017,"apmicrodb",9,"apm","odb","db","database of aphid microsatellite repeats","database","of aphid microsatellite","repeats",5,"translucent","opaque",6
+34174131,2021,"canvas",6,"can","vas","as","greek cancer patient genetic variation resource","greek","cancer patient genetic variation","resource",6,"opaque","opaque",1006
+30215764,2019,"awesome",7,"awe","ome","me","a website exhibits snp on modification event","a","website exhibits snp on modification","event",7,"opaque","opaque",1006
+27242034,2016,"abasy",5,"aba","asy","sy","across bacteria systems atlas","across","bacteria systems","atlas",4,"opaque","opaque",1006
+28365761,2017,"phagesdb",8,"pha","sdb","db","actinobacteriophage database","actinobacteriophage","","database",2,"opaque","translucent",94
+27982098,2016,"arn",3,"arn","arn","rn","adipogenesis regulation network","adipogenesis","regulation","network",3,"opaque","opaque",1006
+25361966,2015,"adrecs",6,"adr","ecs","cs","adverse drug reaction classification system","adverse","drug reaction classification","system",5,"opaque","opaque",1006
+25516260,2014,"bioclock",8,"bio","ock","ck","aedes aegypti circadian database","aedes","aegypti circadian","database",4,"opaque","opaque",1006
+32294195,2020,"asfvdb",6,"asf","vdb","db","african swine fever virus database","african","swine fever virus","database",5,"opaque","opaque",1006
+20949389,2011,"acsr",4,"acs","csr","sr","aids and cancer specimen resource","aids","and cancer specimen","resource",5,"opaque","opaque",1006
+26644461,2016,"alcodb",6,"alc","odb","db","algae gene coexpression database","algae","gene coexpression","database",4,"opaque","opaque",1006
+28069893,2017,"alga-pras",9,"alg","ras","as","algal protein annotation suite database","algal","protein annotation suite","database",5,"opaque","translucent",94
+25414323,2015,"afnd",4,"afn","fnd","nd","allele frequency net database","allele","frequency net","database",4,"opaque","opaque",1006
+24888382,2014,"aair",4,"aai","air","ir","allergic airway inflammation repository","allergic","airway inflammation","repository",4,"opaque","opaque",1006
+31665428,2020,"asd",3,"asd","asd","sd","allosteric database","allosteric","","database",2,"opaque","opaque",1006
+22753137,2012,"alsod",5,"als","sod","od","als online database","als","online","database",3,"opaque","opaque",1006
+28160322,2017,"atlas",5,"atl","las","as","altered tcr ligand affinities and structures","altered","tcr ligand affinities and","structures",6,"translucent","opaque",6
+31501752,2019,"abcd",4,"abc","bcd","cd","alzheimer's disease biomarkers comprehensive database","alzheimer's","disease biomarkers comprehensive","database",6,"opaque","opaque",1006
+31094220,2019,"amyco",5,"amy","yco","co","amyloidoses collection","amyloidoses","","collection",2,"opaque","opaque",1006
+32765587,2020,"abc-gwas",8,"abc","was","as","analysis of breast cancer gwas","analysis","of breast cancer","gwas",5,"translucent","translucent",17
+30893420,2019,"aybrah",6,"ayb","rah","ah","analyzing yeasts by reconstructing ancestry of homologs","analyzing","yeasts by reconstructing ancestry of","homologs",7,"opaque","opaque",1006
+33852582,2021,"alnc",4,"aln","lnc","nc","angiosperms long non-coding rnas catalogue","angiosperms","long non-coding rnas","catalogue",6,"opaque","opaque",1006
+34839012,2021,"aser",4,"ase","ser","er","animal sex reversal database","animal","sex reversal","database",4,"opaque","opaque",1006
+30937442,2019,"asra",4,"asr","sra","ra","animal sncrna atlas","animal","sncrna","atlas",3,"opaque","opaque",1006
+31036810,2019,"asnr",4,"asn","snr","nr","animal social network repository","animal","social network","repository",4,"opaque","opaque",1006
+25262351,2015,"animaltfdb",10,"ani","fdb","db","animal transcription factor database","animal","transcription factor","database",4,"translucent","transparent",12
+26822210,2016,"asdb",4,"asd","sdb","db","annotated scaffold database","annotated","scaffold","database",3,"opaque","opaque",1006
+29321052,2018,"asgdb",5,"asg","gdb","db","anopheles sinensis genome database","anopheles","sinensis genome","database",4,"opaque","opaque",1006
+33588073,2021,"asdb",4,"asd","sdb","db","anopheles sinensis omics database","anopheles","sinensis omics","database",4,"opaque","opaque",1006
+23317704,2012,"amdd",4,"amd","mdd","dd","anti microbial drug database","anti","microbial drug","database",4,"opaque","opaque",1006
+34497528,2021,"acnpd",5,"acn","npd","pd","anti-cancer natural product database","anti-cancer","natural product","database",5,"opaque","opaque",1006
+31123286,2019,"aicd",4,"aic","icd","cd","anti-inflammatory compounds database","anti-inflammatory","compounds","database",4,"opaque","opaque",1006
+31410491,2020,"abcd",4,"abc","bcd","cd","antibodies chemically defined","antibodies","chemically","defined",3,"opaque","opaque",1006
+26074488,2015,"cancerhsp",9,"can","hsp","sp","anticancer herbs database of systems pharmacology","anticancer","herbs database of systems","pharmacology",6,"translucent","translucent",17
+24307774,2013,"diacan",6,"dia","can","an","antidiabetic and anticancer medicinal plants database","antidiabetic","and anticancer medicinal plants","database",6,"opaque","opaque",1006
+24475134,2014,"asdcd",5,"asd","dcd","cd","antifungal synergistic drug combination database","antifungal","synergistic drug combination","database",5,"opaque","opaque",1006
+25048123,2014,"agabdb",6,"aga","bdb","db","antigen-antibody interaction database","antigen-antibody","interaction","database",4,"opaque","opaque",1006
+32584882,2020,"acd",3,"acd","acd","cd","antimicrobial chemotherapeutics database","antimicrobial","chemotherapeutics","database",3,"opaque","opaque",1006
+34529321,2022,"apd",3,"apd","apd","pd","antimicrobial peptide database","antimicrobial","peptide","database",3,"opaque","opaque",1006
+28784999,2017,"aod",3,"aod","aod","od","antioxidant database","antioxidant","","database",2,"opaque","opaque",1006
+22084200,2012,"ah-db",5,"ah-","-db","db","apo-holo database","apo-holo","","database",3,"opaque","opaque",1006
+34556150,2021,"aprgpd",6,"apr","gpd","pd","apricot genomic and phenotypic database","apricot","genomic and phenotypic","database",5,"opaque","opaque",1006
+24272250,2014,"rarge ii",8,"rar","ii","ii","arabidopsis genome encyclopedia ii","arabidopsis","genome encyclopedia","ii",4,"opaque","opaque",1006
+22345505,2012,"anap",4,"ana","nap","ap","arabidopsis network analysis pipeline","arabidopsis","network analysis","pipeline",4,"opaque","opaque",1006
+31843802,2020,"asrd",4,"asr","srd","rd","arabidopsis small rna database","arabidopsis","small rna","database",4,"opaque","opaque",1006
+33219693,2021,"atmad",5,"atm","mad","ad","arabidopsis thaliana multi-omics association database","arabidopsis","thaliana multi-omics association","database",6,"opaque","opaque",1006
+22397531,2012,"atpan",5,"atp","pan","an","arabidopsis thaliana promoter analysis net","arabidopsis","thaliana promoter analysis","net",5,"opaque","opaque",1006
+27899679,2017,"atpid",5,"atp","pid","id","arabidopsis thaliana protein interactome database","arabidopsis","thaliana protein interactome","database",5,"opaque","opaque",1006
+23904744,2013,"asrdb",5,"asr","rdb","db","archaeal stress response database","archaeal","stress response","database",4,"opaque","opaque",1006
+31347432,2020,"andb",4,"and","ndb","db","areca nut database","areca","nut","database",3,"opaque","opaque",1006
+34738791,2021,"arocagedb",9,"aro","edb","db","aromatic cage database","aromatic","cage","database",3,"opaque","translucent",94
+34154536,2021,"teaas",5,"tea","aas","as","as database for tea plants","as","database for tea","plants",5,"opaque","translucent",94
+22080559,2012,"aspgd",5,"asp","pgd","gd","aspergillus genome database","aspergillus","genome","database",3,"opaque","translucent",94
+28779078,2017,"a2mdb",5,"a2m","mdb","db","aspergillus secondary metabolites database","aspergillus","secondary metabolites","database",4,"opaque","opaque",1006
+22057158,2012,"aura",4,"aur","ura","ra","atlas of utr regulatory activity","atlas","of utr regulatory","activity",5,"opaque","opaque",1006
+29077946,2018,"ared-plus",9,"are","lus","us","au-rich element database","au-rich","element","database",4,"opaque","opaque",1006
+32291734,2020,"aelp",4,"ael","elp","lp","auditory english lexicon project","auditory","english lexicon","project",4,"opaque","opaque",1006
+23774715,2014,"abide",5,"abi","ide","de","autism brain imaging data exchange","autism","brain imaging data","exchange",5,"opaque","opaque",1006
+32449934,2020,"asap",4,"asa","sap","ap","automated single-cell analysis portal","automated","single-cell analysis","portal",5,"opaque","opaque",1006
+32681639,2020,"atdb",4,"atd","tdb","db","autophagy and tumor database","autophagy","and tumor","database",4,"opaque","opaque",1006
+25635527,2015,"arn",3,"arn","arn","rn","autophagy regulatory network","autophagy","regulatory","network",3,"opaque","opaque",1006
+30669929,2019,"autophagysmdb",13,"aut","mdb","db","autophagy small molecule database","autophagy","small molecule","database",4,"translucent","transparent",12
+30239683,2018,"atd",3,"atd","atd","td","autophagy to disease","autophagy","to","disease",3,"opaque","opaque",1006
+33176685,2020,"avimm",5,"avi","imm","mm","avian immunome db","avian","immunome","db",3,"opaque","opaque",1006
+24214959,2014,"bacdive",7,"bac","ive","ve","bacterial diversity metadatabase","bacterial","diversity","metadatabase",3,"opaque","translucent",94
+33780471,2021,"mcpdb",5,"mcp","pdb","db","bacterial microcompartment database","bacterial","microcompartment","database",3,"opaque","opaque",1006
+22080550,2012,"bykdb",5,"byk","kdb","db","bacterial protein tyrosine kinase database","bacterial","protein tyrosine kinase","database",5,"opaque","opaque",1006
+24399916,2013,"bex-db",6,"bex","-db","db","barley gene expression database","barley","gene expression","database",4,"opaque","opaque",1006
+26110276,2015,"bgd",3,"bgd","bgd","gd","bat genome database","bat","genome","database",3,"opaque","opaque",1006
+34264745,2021,"barra:curda",11,"bar","rda","da","benchmarking of artificial intelligence research","benchmarking","of artificial intelligence","research",5,"opaque","opaque",1006
+32786900,2020,"bce",3,"bce","bce","ce","bioactive conformational ensemble server and database","bioactive","conformational ensemble server and","database",6,"opaque","opaque",1006
+25477388,2015,"bard",4,"bar","ard","rd","bioassay research database","bioassay","research","database",3,"opaque","opaque",1006
+25336620,2015,"barcdb",6,"bar","cdb","db","biobanking analysis resource catalogue","biobanking","analysis resource","catalogue",4,"opaque","opaque",1006
+22250003,2012,"bfgr",4,"bfg","fgr","gr","biofuel feedstock genomics resource","biofuel","feedstock genomics","resource",4,"opaque","opaque",1006
+21904428,2011,"biogen base",11,"bio","ase","se","biogen base - cassava","biogen","base -","cassava",3,"translucent","opaque",6
+30476227,2019,"biogrid",7,"bio","rid","id","biological general repository for interaction datasets","biological","general repository for interaction","datasets",6,"opaque","opaque",1006
+32026396,2020,"bsm-arc",7,"bsm","arc","rc","biological structure model archive","biological","structure model","archive",4,"opaque","opaque",1006
+34081565,2021,"bee",3,"bee","bee","ee","biomedical entity explorer","biomedical","entity","explorer",3,"opaque","opaque",1006
+21233089,2011,"bind",4,"bin","ind","nd","biomolecular interaction network database","biomolecular","interaction network","database",4,"opaque","opaque",1006
+26503249,2016,"bdb",3,"bdb","bdb","db","biopanning data bank","biopanning","data","bank",3,"opaque","opaque",1006
+30407529,2019,"biosamples",10,"bio","les","es","biosample database","biosample","","database",2,"translucent","transparent",12
+26820405,2016,"bard",4,"bar","ard","rd","biosurveillance analytics resource directory","biosurveillance","analytics resource","directory",4,"opaque","opaque",1006
+33010170,2021,"big-fam",7,"big","fam","am","biosynthetic gene cluster families","biosynthetic","gene cluster","families",4,"opaque","opaque",1006
+23390356,2013,"birs",4,"bir","irs","rs","bioterrorism information retrieval system","bioterrorism","information retrieval","system",4,"opaque","opaque",1006
+32369809,2020,"bcd",3,"bcd","bcd","cd","bird chromosome database","bird","chromosome","database",3,"opaque","opaque",1006
+34736471,2021,"bddb",4,"bdd","ddb","db","birth defect multi-omics database","birth","defect multi-omics","database",5,"opaque","opaque",1006
+21335611,2011,"b2g-far",7,"b2g","far","ar","blast2go functional annotation repository","blast2go","functional annotation","repository",4,"opaque","opaque",1006
+22084196,2012,"bgmut",5,"bgm","mut","ut","blood group antigen gene mutation database","blood","group antigen gene mutation","database",6,"opaque","opaque",1006
+34897852,2022,"bgvar",5,"bgv","var","ar","blood group associated genomic variant resource","blood","group associated genomic variant","resource",6,"opaque","opaque",1006
+24250117,2013,"bbgd454",7,"bbg","454","54","blueberry genomic database","blueberry","genomic","database",3,"opaque","opaque",1006
+28365726,2017,"bmw",3,"bmw","bmw","mw","boechera microsatellite website","boechera","microsatellite","website",3,"opaque","opaque",1006
+31647100,2020,"bgd",3,"bgd","bgd","gd","bovine genome database","bovine","genome","database",3,"opaque","opaque",1006
+32540200,2020,"bgvd",4,"bgv","gvd","vd","bovine genome variation database","bovine","genome variation","database",4,"opaque","translucent",94
+24077841,2013,"bbgre",5,"bbg","gre","re","brain and body genetic resource exchange","brain","and body genetic resource","exchange",6,"opaque","opaque",1006
+34144671,2021,"bcgene",6,"bcg","ene","ne","brain cancer gene database","brain","cancer gene","database",4,"opaque","translucent",94
+29985970,2019,"brainexp",8,"bra","exp","xp","brain expression database","brain","expression","database",3,"translucent","transparent",12
+26794641,2017,"brains",6,"bra","ins","ns","brain images of normal subjects","brain","images of normal","subjects",5,"translucent","transparent",12
+25784642,2015,"brain tumor",11,"bra","mor","or","brain tumor database","brain","tumor","database",3,"translucent","transparent",12
+26589635,2015,"brad",4,"bra","rad","ad","brassica database","brassica","","database",2,"opaque","opaque",1006
+23203881,2013,"brenda",6,"bre","nda","da","braunschweig enzyme database","braunschweig","enzyme","database",3,"opaque","opaque",1006
+24570022,2014,"bgbx",4,"bgb","gbx","bx","brazilian genetic database of chromosome x","brazilian","genetic database of chromosome","x",6,"opaque","opaque",1006
+25332396,2015,"bcctbbp",7,"bcc","bbp","bp","breast cancer campaign tissue bank","breast","cancer campaign tissue","bank",5,"opaque","opaque",1006
+33599248,2021,"bc-genexminer",13,"bc-","ner","er","breast cancer gene-expression miner","breast","cancer gene-expression","miner",5,"opaque","translucent",94
+28327601,2017,"bcip",4,"bci","cip","ip","breast cancer integrative platform","breast","cancer integrative","platform",4,"opaque","opaque",1006
+29136180,2018,"bcntb",5,"bcn","ntb","tb","breast cancer now tissue bank bioinformatics","breast","cancer now tissue bank","bioinformatics",6,"opaque","opaque",1006
+33882119,2021,"bc-tfdb",7,"bc-","fdb","db","breast cancer transcription factors database","breast","cancer transcription factors","database",5,"opaque","translucent",94
+28821760,2017,"boss",4,"bos","oss","ss","breast oncogenic specific sirnas","breast","oncogenic specific","sirnas",4,"opaque","opaque",1006
+23336431,2013,"buffsatdb",9,"buf","tdb","db","buffalo microsatellite database","buffalo","microsatellite","database",3,"opaque","translucent",94
+27701074,2017,"cendr",5,"cen","ndr","dr","c. elegans natural diversity resource","c.","elegans natural diversity","resource",5,"opaque","opaque",1006
+26519468,2016,"ccmgdb",6,"ccm","gdb","db","cancer cell metabolism gene database","cancer","cell metabolism gene","database",5,"opaque","opaque",1006
+23893318,2013,"cdsa",4,"cds","dsa","sa","cancer digital slide archive","cancer","digital slide","archive",4,"opaque","opaque",1006
+23486013,2013,"cancerdr",8,"can","rdr","dr","cancer drug resistance database","cancer","drug resistance","database",4,"translucent","transparent",12
+30759968,2019,"cdrgator",8,"cdr","tor","or","cancer drug resistance navigator","cancer","drug resistance","navigator",4,"opaque","opaque",1006
+26160459,2015,"cgmd",4,"cgm","gmd","md","cancer gene marker database","cancer","gene marker","database",4,"opaque","opaque",1006
+23630576,2013,"cms",3,"cms","cms","ms","cancer methylome system","cancer","methylome","system",3,"opaque","opaque",1006
+25398898,2015,"cmpd",4,"cmp","mpd","pd","cancer mutant proteome database","cancer","mutant proteome","database",4,"opaque","opaque",1006
+28473704,2017,"cancerpdf",9,"can","pdf","df","cancer peptidome database of biofluids","cancer","peptidome database of","biofluids",5,"translucent","translucent",17
+27192119,2016,"dbcpg",5,"dbc","cpg","pg","cancer predisposition gene database","cancer","predisposition gene","database",4,"opaque","opaque",1006
+29860480,2018,"dbcrsr",6,"dbc","rsr","sr","cancer radiosensitivity regulation factors database","cancer","radiosensitivity regulation factors","database",5,"opaque","opaque",1006
+34927675,2022,"crpmkb",6,"crp","mkb","kb","cancer risk prediction model","cancer","risk prediction","model",4,"opaque","opaque",1006
+26602695,2016,"crn",3,"crn","crn","rn","cancer rna-seq nexus","cancer","rna-seq","nexus",4,"opaque","opaque",1006
+28191780,2017,"csctt",5,"csc","ctt","tt","cancer stem cells therapeutic target database","cancer","stem cells therapeutic target","database",6,"opaque","opaque",1006
+29036403,2018,"cscd",4,"csc","scd","cd","cancer-specific circrna database","cancer-specific","circrna","database",4,"opaque","opaque",1006
+23486613,2013,"cgob",4,"cgo","gob","ob","candida gene order browser","candida","gene order","browser",4,"opaque","opaque",1006
+22064862,2012,"cgd",3,"cgd","cgd","gd","candida genome database","candida","genome","database",3,"opaque","opaque",1006
+25190456,2015,"ccgd",4,"ccg","cgd","gd","candidate cancer gene database","candidate","cancer gene","database",4,"opaque","opaque",1006
+28651548,2017,"chd",3,"chd","chd","hd","canis mtdna hv1 database","canis","mtdna hv1","database",4,"opaque","opaque",1006
+25753703,2015,"csdb",4,"csd","sdb","db","carbohydrate structure databases","carbohydrate","structure","databases",3,"opaque","opaque",1006
+28011601,2017,"csdb_gt",7,"csd","_gt","gt","carbohydrate structure glycosyltransferase database","carbohydrate","structure glycosyltransferase","database",4,"opaque","opaque",1006
+23514094,2013,"cazy",4,"caz","azy","zy","carbohydrate-active enzymes database","carbohydrate-active","enzymes","database",4,"opaque","opaque",1006
+24344970,2013,"cvdhd",5,"cvd","dhd","hd","cardiovascular disease herbal database","cardiovascular","disease herbal","database",4,"opaque","opaque",1006
+34964846,2021,"cogvic",6,"cog","vic","ic","catalog of germline variants in cancer","catalog","of germline variants in","cancer",6,"opaque","opaque",1006
+28147217,2016,"ccg",3,"ccg","ccg","cg","catalogue of cancer genes","catalogue","of cancer","genes",4,"opaque","opaque",1006
+22621612,2012,"c-gate",6,"c-g","ate","te","catalogue of genes affected by transposable elements","catalogue","of genes affected by transposable","elements",7,"opaque","opaque",1006
+23405067,2013,"chpc2012",8,"chp","012","12","catalogue of human protein complexes","catalogue","of human protein","complexes",5,"opaque","opaque",1006
+25355519,2015,"cosmic",6,"cos","mic","ic","catalogue of somatic mutations in cancer","catalogue","of somatic mutations in","cancer",6,"opaque","opaque",1006
+24319146,2014,"csa",3,"csa","csa","sa","catalytic site atlas","catalytic","site","atlas",3,"opaque","opaque",1006
+30967897,2019,"crofgd",6,"cro","fgd","gd","catharanthus roseus functional genomics database","catharanthus","roseus functional genomics","database",5,"opaque","opaque",1006
+23537399,2013,"cdp",3,"cdp","cdp","dp","cell death proteomics database","cell","death proteomics","database",4,"opaque","opaque",1006
+23203874,2013,"cil-ccdb",8,"cil","cdb","db","cell image library-cell centered database","cell","image library-cell centered","database",6,"opaque","opaque",1006
+25592564,2015,"cellx",5,"cel","llx","lx","cell index database","cell","index","database",3,"opaque","opaque",1006
+33211888,2021,"csea-db",7,"cse","-db","db","cell type-specific enrichment analysis database","cell","type-specific enrichment analysis","database",6,"opaque","opaque",1006
+25861964,2015,"cpd",3,"cpd","cpd","pd","cellular phenotype database","cellular","phenotype","database",3,"opaque","opaque",1006
+26026167,2015,"rpdb",4,"rpd","pdb","db","cellular reprogramming database","cellular","reprogramming","database",3,"opaque","opaque",1006
+24498619,2013,"chbmp",5,"chb","bmp","mp","centers for disease control and prevention (cdc) hemophilia b mutation project mutation list","centers","for disease control and prevention (cdc) hemophilia b mutation project mutation","list",13,"opaque","opaque",1006
+22080563,2012,"cadre",5,"cad","dre","re","central aspergillus data repository","central","aspergillus data","repository",4,"opaque","opaque",1006
+25392417,2015,"cecafdb",7,"cec","fdb","db","central carbon metabolic flux database","central","carbon metabolic flux","database",5,"opaque","opaque",1006
+25038066,2014,"csf-pr",6,"csf","-pr","pr","cerebrospinal fluid proteome resource","cerebrospinal","fluid proteome","resource",4,"opaque","opaque",1006
+26660198,2016,"cb",2,"cb","cb","cb","change blindess database","change","blindess","database",3,"opaque","opaque",1006
+26862144,2016,"cragdb",6,"cra","gdb","db","chaperone repertoire in archaeal genomes","chaperone","repertoire in archaeal","genomes",5,"opaque","opaque",1006
+33109630,2020,"ckttd",5,"ckt","ttd","td","checkpoint therapeutic target database","checkpoint","therapeutic target","database",4,"opaque","opaque",1006
+27899660,2017,"cebs",4,"ceb","ebs","bs","chemical effects in biological systems database","chemical","effects in biological systems","database",6,"opaque","opaque",1006
+28962356,2015,"cpcat",5,"cpc","cat","at","chemical/product categories database","chemical/product","categories","database",4,"opaque","opaque",1006
+33068420,2021,"chewie-ns",9,"che","-ns","ns","chewie nomenclature server","chewie","nomenclature","server",3,"opaque","opaque",1006
+25518738,2014,"cgwr",4,"cgw","gwr","wr","chickpea genomic web resource","chickpea","genomic web","resource",4,"opaque","opaque",1006
+24952649,2014,"cicarmisatdb",12,"cic","tdb","db","chickpea microsatellite database","chickpea","microsatellite","database",3,"opaque","opaque",1006
+26322998,2015,"ctdb",4,"ctd","tdb","db","chickpea transcriptome database","chickpea","transcriptome","database",3,"opaque","opaque",1006
+28383342,2017,"chear",5,"che","ear","ar","children's health exposure analysis resource","children's","health exposure analysis","resource",6,"opaque","opaque",1006
+32952115,2020,"cngbdb",6,"cng","bdb","db","china national genebank database","china","national genebank","database",4,"opaque","opaque",1006
+32705130,2020,"cnsa",4,"cns","nsa","sa","china national genebank sequence archive","china","national genebank sequence","archive",5,"opaque","opaque",1006
+30117424,2018,"czrc",4,"czr","zrc","rc","china zebrafish resource center","china","zebrafish resource","center",4,"opaque","opaque",1006
+27173523,2016,"crrd",4,"crr","rrd","rd","chinchilla research resource database","chinchilla","research resource","database",4,"opaque","opaque",1006
+30208340,2018,"ccgd-escc",9,"ccg","scc","cc","chinese cancer genomic database-esophageal squamous cell carcinoma","chinese","cancer genomic database-esophageal squamous cell","carcinoma",8,"opaque","opaque",1006
+25970778,2015,"cemtdd",6,"cem","tdd","dd","chinese ethnic minority traditional drug database","chinese","ethnic minority traditional drug","database",6,"opaque","opaque",1006
+33662628,2021,"cgga",4,"cgg","gga","ga","chinese glioma genome atlas","chinese","glioma genome","atlas",4,"opaque","opaque",1006
+29934697,2018,"cld",3,"cld","cld","ld","chinese lexical database","chinese","lexical","database",3,"opaque","opaque",1006
+35134148,2020,"cata",4,"cat","ata","ta","chromatin accessibility database","chromatin","accessibility","database",3,"opaque","opaque",1006
+26868054,2016,"ccsi",4,"ccs","csi","si","chromatin-chromatin spatial interaction","chromatin-chromatin","spatial","interaction",4,"opaque","opaque",1006
+27472917,2016,"cicertransdb",12,"cic","sdb","db","cicer transcription factor database","cicer","transcription factor","database",4,"opaque","opaque",1006
+30668638,2019,"cmep",4,"cme","mep","ep","circulating microrna expression profiling","circulating","microrna expression","profiling",4,"opaque","opaque",1006
+30462313,2019,"cistrome db",11,"cis","db","db","cistrome data browser","cistrome","data","browser",3,"opaque","transparent",17
+32025315,2020,"citgvd",6,"cit","gvd","vd","citrus genomic variation database","citrus","genomic variation","database",4,"opaque","opaque",1006
+21718534,2011,"cangs",5,"can","ngs","gs","cleaning and analyzing next generation sequences database","cleaning","and analyzing next generation sequences","database",7,"opaque","opaque",1006
+24678985,2014,"clearedleavesdb",15,"cle","sdb","db","cleared leaf image database","cleared","leaf image","database",4,"translucent","transparent",12
+23696674,2013,"cgd",3,"cgd","cgd","gd","clinical genomic database","clinical","genomic","database",3,"opaque","opaque",1006
+33306800,2020,"ceg",3,"ceg","ceg","eg","clusters of essential genes","clusters","of essential","genes",4,"opaque","opaque",1006
+33167031,2021,"cog",3,"cog","cog","og","clusters of orthologous genes","clusters","of orthologous","genes",4,"opaque","opaque",1006
+25428365,2015,"cogs",4,"cog","ogs","gs","clusters of orthologous groups of proteins","clusters","of orthologous groups of","proteins",6,"opaque","opaque",1006
+26051695,2015,"comirnet",8,"com","net","et","co-clustered mirna regulatory networks","co-clustered","mirna regulatory","networks",5,"opaque","opaque",1006
+31029701,2019,"cocoputs",8,"coc","uts","ts","codon and codon-pair usage tables","codon","and codon-pair usage","tables",6,"opaque","opaque",1006
+26019122,2016,"dx",2,"dx","dx","dx","coins data exchange","coins","data","exchange",3,"opaque","opaque",1006
+22275896,2011,"coins",5,"coi","ins","ns","collaborative informatics and neuroimaging suite","collaborative","informatics and neuroimaging","suite",5,"opaque","opaque",1006
+32990755,2021,"csvs",4,"csv","svs","vs","collaborative spanish variability server","collaborative","spanish variability","server",4,"opaque","opaque",1006
+24265220,2014,"camp",4,"cam","amp","mp","collection of antimicrobial peptide","collection","of antimicrobial","peptide",4,"opaque","opaque",1006
+33423696,2021,"coconut",7,"coc","nut","ut","collection of open natural products","collection","of open natural","products",5,"opaque","opaque",1006
+26048563,2015,"cyclops",7,"cyc","ops","ps","collection of yeast cells localization patterns","collection","of yeast cells localization","patterns",6,"opaque","opaque",1006
+30357356,2019,"cmaup",5,"cma","aup","up","collective molecular activities of useful plants","collective","molecular activities of useful","plants",6,"opaque","opaque",1006
+31725864,2017,"craft",5,"cra","aft","ft","colorado richly annotated full-text","colorado","richly annotated","full-text",5,"opaque","opaque",1006
+30329086,2019,"cagm",4,"cag","agm","gm","comparative analysis of germline microsatellites","comparative","analysis of germline","microsatellites",5,"opaque","opaque",1006
+23193288,2013,"cfgp",4,"cfg","fgp","gp","comparative fungal genomics platform","comparative","fungal genomics","platform",4,"opaque","opaque",1006
+23093600,2013,"ctd",3,"ctd","ctd","td","comparative toxicogenomics database","comparative","toxicogenomics","database",3,"opaque","opaque",1006
+21269480,2011,"cpass",5,"cpa","ass","ss","comparison of protein active site structures","comparison","of protein active site","structures",6,"opaque","opaque",1006
+29020642,2017,"cbit",4,"cbi","bit","it","compendium for biomaterial transcriptomics","compendium","for biomaterial","transcriptomics",4,"opaque","opaque",1006
+24214993,2014,"cplm",4,"cpl","plm","lm","compendium of protein lysine modifications","compendium","of protein lysine","modifications",5,"opaque","opaque",1006
+23661693,2013,"cmap",4,"cma","map","ap","complement map database","complement","map","database",3,"opaque","opaque",1006
+25333826,2015,"colmar",6,"col","mar","ar","complex mixture analysis by nmr","complex","mixture analysis by","nmr",5,"opaque","opaque",1006
+26040787,2015,"carmo",5,"car","rmo","mo","comprehensive annotation of rice multi-omics data","comprehensive","annotation of rice multi-omics","data",7,"opaque","opaque",1006
+31665441,2020,"card",4,"car","ard","rd","comprehensive antibiotic resistance database","comprehensive","antibiotic resistance","database",4,"opaque","opaque",1006
+22120664,2011,"cpgr",4,"cpg","pgr","gr","comprehensive phytopathogen genomics resource","comprehensive","phytopathogen genomics","resource",4,"opaque","opaque",1006
+30357367,2019,"corum",5,"cor","rum","um","comprehensive resource of mammalian protein complexes","comprehensive","resource of mammalian protein","complexes",6,"opaque","opaque",1006
+26450948,2015,"crcda",5,"crc","cda","da","comprehensive resources for cancer ngs data analysis","comprehensive","resources for cancer ngs data","analysis",7,"opaque","opaque",1006
+28704505,2017,"csmirtar",8,"csm","tar","ar","condition-specific mirna targets","condition-specific","mirna","targets",4,"opaque","translucent",94
+23846747,2013,"codnas",6,"cod","nas","as","conformational diversity of native state","conformational","diversity of native","state",5,"opaque","opaque",1006
+29126148,2018,"ccds",4,"ccd","cds","ds","consensus coding sequence","consensus","coding","sequence",3,"opaque","opaque",1006
+23197659,2013,"cdd",3,"cdd","cdd","dd","conserved domain database","conserved","domain","database",3,"opaque","opaque",1006
+26527719,2016,"cega",4,"ceg","ega","ga","conserved elements from genomic alignments","conserved","elements from genomic","alignments",5,"opaque","opaque",1006
+23228284,2012,"cbs",3,"cbs","cbs","bs","conserved regulatory binding sites","conserved","regulatory binding","sites",4,"opaque","opaque",1006
+31269035,2019,"coolr",5,"coo","olr","lr","cooperative open online landslide repository","cooperative","open online landslide","repository",5,"opaque","opaque",1006
+27242036,2016,"cooptfd",7,"coo","tfd","fd","cooperative transcription factors database","cooperative","transcription factors","database",4,"opaque","opaque",1006
+22826268,2012,"cnvd",4,"cnv","nvd","vd","copy number variation in disease database","copy","number variation in disease","database",6,"opaque","opaque",1006
+32257241,2020,"cgdb",4,"cgd","gdb","db","coriander genomics database","coriander","genomics","database",3,"opaque","opaque",1006
+33095860,2021,"cncdatabase",11,"cnc","ase","se","cornell non-coding cancer driver database","cornell","non-coding cancer driver","database",6,"opaque","opaque",1006
+33009914,2021,"covdb",5,"cov","vdb","db","coronavirus database","coronavirus","","database",2,"opaque","opaque",1006
+26868053,2016,"cld",3,"cld","cld","ld","corvids literature database","corvids","literature","database",3,"opaque","opaque",1006
+28595571,2017,"cottonfgd",9,"cot","fgd","gd","cotton functional genomic database","cotton","functional genomic","database",4,"translucent","transparent",12
+34992626,2021,"cottongvd",9,"cot","gvd","vd","cotton genomic variation database","cotton","genomic variation","database",4,"translucent","transparent",12
+33068433,2021,"covalentindb",12,"cov","ndb","db","covalent inhibitor database","covalent","inhibitor","database",3,"opaque","translucent",94
+30717315,2019,"cbd",3,"cbd","cbd","bd","crc biomarker database","crc","biomarker","database",3,"opaque","opaque",1006
+26556651,2016,"croppal",7,"cro","pal","al","crop proteins with annotated locations","crop","proteins with annotated","locations",5,"opaque","translucent",94
+22916227,2012,"clearpond",9,"cle","ond","nd","cross-linguistic easy-access resource for phonological and orthographic neighborhood densities","cross-linguistic","easy-access resource for phonological and orthographic neighborhood","densities",11,"opaque","opaque",1006
+22070882,2012,"cod",3,"cod","cod","od","crystallography open database","crystallography","open","database",3,"opaque","opaque",1006
+26989154,2016,"cscdb",5,"csc","cdb","db","cscs database","cscs","","database",2,"opaque","opaque",1006
+25885062,2015,"cmmdb",5,"cmm","mdb","db","cucumis melo microsatellites database","cucumis","melo microsatellites","database",4,"opaque","opaque",1006
+30321383,2019,"cugendb",7,"cug","ndb","db","cucurbit genomics database","cucurbit","genomics","database",3,"opaque","translucent",94
+31979981,2020,"cpad",4,"cpa","pad","ad","curated protein aggregation database","curated","protein aggregation","database",4,"opaque","opaque",1006
+27226753,2016,"scratchpads",11,"scr","ads","ds","cyanobacteria culture collection","cyanobacteria","culture","collection",3,"opaque","opaque",1006
+26305368,2015,"ckb",3,"ckb","ckb","kb","cyanobacterial knowledgebase","cyanobacterial","","knowledgebase",2,"opaque","opaque",1006
+26895996,2016,"cfc",3,"cfc","cfc","fc","cystic fibrosis cloud database","cystic","fibrosis cloud","database",4,"opaque","opaque",1006
+28603918,2017,"cftr-france",11,"cft","nce","ce","cystic fibrosis transmembrane conductance regulator - france","cystic","fibrosis transmembrane conductance regulator -","france",6,"opaque","opaque",1006
+21738316,2011,"cytred",6,"cyt","red","ed","cytokine receptor database","cytokine","receptor","database",3,"opaque","opaque",1006
+31813095,2020,"cmvdb",5,"cmv","vdb","db","cytomegalovirus infection database","cytomegalovirus","infection","database",3,"opaque","opaque",1006
+23601403,2013,"fcdb",4,"fcd","cdb","db","czech food composition database","czech","food composition","database",4,"opaque","opaque",1006
+21782820,2011,"dfrmli",6,"dfr","mli","li","dana-farber repository for machine learning in immunology","dana-farber","repository for machine learning in","immunology",8,"opaque","opaque",1006
+26909679,2016,"dstrd",5,"dst","trd","rd","danshen transcriptional resource database","danshen","transcriptional resource","database",4,"opaque","opaque",1006
+33079988,2021,"dkk",3,"dkk","dkk","kk","dark kinase knowledgebase","dark","kinase","knowledgebase",3,"opaque","opaque",1006
+25505093,2015,"dixa",4,"dix","ixa","xa","data infrastructure for chemical safety assessment","data","infrastructure for chemical safety","assessment",6,"opaque","opaque",1006
+31504765,2020,"gmrepo",6,"gmr","epo","po","data repository for gut microbiota","data","repository for gut","microbiota",5,"opaque","opaque",1006
+31409791,2019,"dramp",5,"dra","amp","mp","data repository of antimicrobial peptides","data","repository of antimicrobial","peptides",5,"opaque","opaque",1006
+31560645,2019,"dtm",3,"dtm","dtm","tm","data, trends, and maps","data,","trends, and","maps",4,"opaque","opaque",1006
+31160594,2019,"pathophenodb",12,"pat","odb","db","database containing pathogen-to-phenotype associations","database","containing pathogen-to-phenotype","associations",6,"opaque","translucent",94
+23516335,2013,"debdom",6,"deb","dom","om","database exploring banana diversity of","database","exploring banana diversity","of",5,"opaque","opaque",1006
+22102573,2012,"dbeth",5,"dbe","eth","th","database for bacterial exotoxins","database","for bacterial","exotoxins",4,"opaque","opaque",1006
+25754864,2015,"mycoclap",8,"myc","lap","ap","database for characterized lignocellulose-active proteins of fungal origin","database","for characterized lignocellulose-active proteins of fungal","origin",9,"opaque","translucent",94
+26055100,2015,"dbhimo",6,"dbh","imo","mo","database for histone-modifying enzymes","database","for histone-modifying","enzymes",5,"opaque","opaque",1006
+32047897,2021,"trlnc",5,"trl","lnc","nc","database for human regulatory information of lncrnas","database","for human regulatory information of","lncrnas",7,"opaque","translucent",94
+33007622,2020,"dinax",5,"din","nax","ax","database for inherited ataxia","database","for inherited","ataxia",4,"opaque","opaque",1006
+28502574,2017,"diner",5,"din","ner","er","database for insect neuropeptide research","database","for insect neuropeptide","research",5,"opaque","opaque",1006
+26946289,2016,"dbpec",5,"dbp","pec","ec","database for preeclampsia","database","for","preeclampsia",3,"opaque","opaque",1006
+26836976,2016,"dbaard",6,"dba","ard","rd","database of aging and age related disorders","database","of aging and age related","disorders",7,"opaque","opaque",1006
+23842462,2013,"dbate",5,"dba","ate","te","database of alternative transcripts expression","database","of alternative transcripts","expression",5,"opaque","opaque",1006
+26578581,2016,"dbaasp",6,"dba","asp","sp","database of antimicrobial activity and structure of peptides","database","of antimicrobial activity and structure of","peptides",8,"opaque","opaque",1006
+25414358,2015,"db-at",5,"db-","-at","at","database of apicomplexa transcriptomes","database","of apicomplexa","transcriptomes",4,"opaque","opaque",1006
+26503248,2016,"dbmae",5,"dbm","mae","ae","database of autosomal monoallelic expression","database","of autosomal monoallelic","expression",5,"opaque","opaque",1006
+24647629,2014,"dbatvir",7,"dba","vir","ir","database of bat-associated viruses","database","of bat-associated","viruses",5,"opaque","opaque",1006
+25474259,2014,"dbbp",4,"dbb","bbp","bp","database of binding pairs in protein-nucleic acid interactions","database","of binding pairs in protein-nucleic acid","interactions",9,"opaque","opaque",1006
+23185043,2013,"dobiscuit",9,"dob","uit","it","database of biosynthesis clusters","database","of biosynthesis","clusters",4,"opaque","opaque",1006
+27650316,2016,"dbsecsys",8,"dbs","sys","ys","database of burkholderia mallei and burkholderia pseudomallei secretion systems","database","of burkholderia mallei and burkholderia pseudomallei secretion","systems",9,"opaque","opaque",1006
+30016397,2019,"dbcid",5,"dbc","cid","id","database of cancer driver indels","database","of cancer driver","indels",5,"opaque","opaque",1006
+30379998,2020,"dbcpm",5,"dbc","cpm","pm","database of cancer passenger mutations","database","of cancer passenger","mutations",5,"opaque","opaque",1006
+27789706,2017,"cgdb",4,"cgd","gdb","db","database of circadian genes in eukaryotes","database","of circadian genes in","eukaryotes",6,"opaque","opaque",1006
+21214365,2011,"dbcat",5,"dbc","cat","at","database of cpg islands and analytical tools","database","of cpg islands and analytical","tools",7,"opaque","opaque",1006
+27153700,2016,"dbdsm",5,"dbd","dsm","sm","database of deleterious synonymous mutation","database","of deleterious synonymous","mutation",5,"opaque","opaque",1006
+23203878,2013,"d(2)p(2)",8,"d(2","(2)","2)","database of disordered protein predictions","database","of disordered protein","predictions",5,"opaque","opaque",1006
+21938213,2011,"ddtrp",5,"ddt","trp","rp","database of drug targets for resistant pathogens","database","of drug targets for resistant","pathogens",7,"opaque","opaque",1006
+31349169,2019,"deduct",6,"ded","uct","ct","database of endocrine disrupting chemicals and their toxicity profiles","database","of endocrine disrupting chemicals and their toxicity","profiles",9,"opaque","opaque",1006
+26727469,2016,"dembf",5,"dem","mbf","bf","database of enzymes of microalgal biofuel feedstock","database","of enzymes of microalgal biofuel","feedstock",7,"opaque","opaque",1006
+22467915,2012,"deori",5,"deo","ori","ri","database of eukaryotic oris","database","of eukaryotic","oris",4,"opaque","opaque",1006
+28294141,2017,"gear",4,"gea","ear","ar","database of genomic elements associated with drug resistance","database","of genomic elements associated with drug","resistance",8,"opaque","opaque",1006
+24174537,2014,"dgv",3,"dgv","dgv","gv","database of genomic variants","database","of genomic","variants",4,"opaque","opaque",1006
+24297256,2014,"dbgap",5,"dbg","gap","ap","database of genotypes and phenotypes","database","of genotypes and","phenotypes",5,"opaque","opaque",1006
+30665056,2019,"dbhdpls",7,"dbh","pls","ls","database of human disease-related protein-ligand structures","database","of human disease-related protein-ligand","structures",8,"opaque","opaque",1006
+26566288,2015,"dbgc",4,"dbg","bgc","gc","database of human gastric cancer","database","of human gastric","cancer",5,"opaque","opaque",1006
+22491796,2012,"msv3d",5,"msv","v3d","3d","database of human missense variants","database","of human missense","variants",5,"opaque","opaque",1006
+22080506,2012,"digit",5,"dig","git","it","database of immunoglobulins with integrated tools","database","of immunoglobulins with integrated","tools",6,"opaque","opaque",1006
+23529715,2013,"dirum",5,"dir","rum","um","database of instruments for resource use measurement","database","of instruments for resource use","measurement",7,"opaque","opaque",1006
+24194591,2014,"lenvardb",8,"len","rdb","db","database of length variant protein domains","database","of length variant protein","domains",6,"opaque","translucent",94
+34314366,2021,"dbmcs",5,"dbm","mcs","cs","database of mutation markers for anti-cancer drug sensitivity","database","of mutation markers for anti-cancer drug","sensitivity",9,"opaque","opaque",1006
+25002814,2014,"dor",3,"dor","dor","or","database of olfactory receptors","database","of olfactory","receptors",4,"opaque","opaque",1006
+26073932,2015,"pedican",7,"ped","can","an","database of pediatric cancers","database","of pediatric","cancers",4,"opaque","translucent",94
+33216893,2020,"dpl",3,"dpl","dpl","pl","database of peptide ligand","database","of peptide","ligand",4,"opaque","opaque",1006
+25534750,2014,"dbppt",5,"dbp","ppt","pt","database of phosphorylation site in plants","database","of phosphorylation site in","plants",6,"opaque","opaque",1006
+32472030,2020,"dbpsp",5,"dbp","psp","sp","database of phosphorylation sites in prokaryotes","database","of phosphorylation sites in","prokaryotes",6,"opaque","opaque",1006
+23952586,2013,"mycosec",7,"myc","sec","ec","database of potential mycobacterial secretomes","database","of potential mycobacterial","secretomes",5,"opaque","translucent",94
+31713636,2020,"disprot",7,"dis","rot","ot","database of protein disorder","database","of protein","disorder",4,"opaque","opaque",1006
+27478368,2016,"pimadb",6,"pim","adb","db","database of protein-protein interactions in huge macromolecular assemblies","database","of protein-protein interactions in huge macromolecular","assemblies",9,"opaque","opaque",1006
+31581093,2021,"dorman",6,"dor","man","an","database of reconstructed metabolic networks","database","of reconstructed metabolic","networks",5,"opaque","opaque",1006
+30622655,2019,"rexdb",5,"rex","xdb","db","database of retrotransposon protein domains","database","of retrotransposon protein","domains",5,"opaque","opaque",1006
+25228593,2014,"radb",4,"rad","adb","db","database of rheumatoid arthritis-related polymorphisms","database","of rheumatoid arthritis-related","polymorphisms",6,"opaque","opaque",1006
+23074185,2013,"darned",6,"dar","ned","ed","database of rna editing in humans","database","of rna editing in","humans",6,"opaque","opaque",1006
+30668832,2019,"dashr",5,"das","shr","hr","database of small human noncoding rnas","database","of small human noncoding","rnas",6,"opaque","opaque",1006
+23846594,2013,"dosa",4,"dos","osa","sa","database of structural alignments","database","of structural","alignments",4,"opaque","opaque",1006
+33641184,2022,"dbstrips",8,"dbs","ips","ps","database of structural repeats in proteins","database","of structural repeats in","proteins",6,"opaque","opaque",1006
+27924039,2017,"flyrnai",7,"fly","nai","ai","database of the drosophila rnai screening center","database","of the drosophila rnai screening","center",7,"translucent","transparent",12
+24081580,2014,"3did",4,"3di","did","id","database of three-dimensional interacting domains","database","of three-dimensional interacting","domains",6,"opaque","opaque",1006
+29236308,2018,"dbtflc",6,"dbt","flc","lc","database of transcription factors in lung cancer","database","of transcription factors in lung","cancer",7,"opaque","opaque",1006
+22086958,2012,"dbtss",5,"dbt","tss","ss","database of transcriptional start sites","database","of transcriptional start","sites",5,"opaque","opaque",1006
+24198712,2013,"vascan",6,"vas","can","an","database of vascular plants of canada","database","of vascular plants of","canada",6,"opaque","opaque",1006
+34405389,2022,"dowls-man",9,"dow","man","an","database of word-level statistics for mandarin chinese","database","of word-level statistics for mandarin","chinese",8,"opaque","opaque",1006
+29764375,2018,"dbatm",5,"dba","atm","tm","database resource for aquatic animals' transcriptome","database","resource for aquatic animals'","transcriptome",6,"opaque","opaque",1006
+29209336,2017,"drdb",4,"drd","rdb","db","date palm genomic resource database","date","palm genomic resource","database",5,"opaque","opaque",1006
+27375595,2016,"dgv",3,"dgv","dgv","gv","dengue genographic viewer","dengue","genographic","viewer",3,"opaque","opaque",1006
+24700709,2014,"dbdb",4,"dbd","bdb","db","developmental brain disorders database","developmental","brain disorders","database",4,"opaque","opaque",1006
+24434032,2014,"dbm-db",6,"dbm","-db","db","diamondback moth genome database","diamondback","moth genome","database",4,"opaque","opaque",1006
+26030752,2015,"dmd",3,"dmd","dmd","md","dietary microrna databases","dietary","microrna","databases",3,"opaque","opaque",1006
+34366563,2021,"dsld",4,"dsl","sld","ld","dietary supplement label database","dietary","supplement label","database",4,"opaque","opaque",1006
+26048622,2016,"pedsdti",7,"ped","dti","ti","diffusion tensor imaging (dti) component of the nih mri study of normal brain development","diffusion","tensor imaging (dti) component of the nih mri study of normal brain","development",14,"opaque","opaque",1006
+26481352,2016,"dida",4,"did","ida","da","digenic diseases database","digenic","diseases","database",3,"opaque","opaque",1006
+25232097,2015,"daa",3,"daa","daa","aa","digital ageing atlas","digital","ageing","atlas",3,"opaque","opaque",1006
+30942868,2019,"dee2",4,"dee","ee2","e2","digital expression explorer 2","digital","expression explorer","2",4,"opaque","opaque",1006
+22493695,2012,"dfl",3,"dfl","dfl","fl","digital fish library","digital","fish","library",3,"opaque","opaque",1006
+21249531,2011,"diadem",6,"dia","dem","em","digital reconstruction of axonal and dendritic morphology","digital","reconstruction of axonal and dendritic","morphology",7,"opaque","opaque",1006
+27173524,2016,"dptedb",6,"dpt","edb","db","dioecious plant transposable element database","dioecious","plant transposable element","database",5,"opaque","opaque",1006
+23197658,2013,"dga",3,"dga","dga","ga","disease and gene annotations database","disease","and gene annotations","database",5,"opaque","opaque",1006
+22079417,2012,"dacs-db",7,"dac","-db","db","disease associated cytokine snp database","disease","associated cytokine snp","database",5,"opaque","opaque",1006
+33426407,2019,"dsstox",6,"dss","tox","ox","distributed structure-searchable toxicity (dsstox) database","distributed","structure-searchable toxicity (dsstox)","database",6,"opaque","opaque",1006
+24194602,2014,"ddbj",4,"ddb","dbj","bj","dna data bank of japan","dna","data bank of","japan",5,"opaque","opaque",1006
+31598709,2020,"dnmivd",6,"dnm","ivd","vd","dna methylation interactive visualization database","dna","methylation interactive visualization","database",5,"opaque","opaque",1006
+28234924,2017,"dnapod",6,"dna","pod","od","dna polymorphism annotation database","dna","polymorphism annotation","database",4,"translucent","translucent",17
+25853886,2015,"aldb",4,"ald","ldb","db","domestic-animal lncrna database","domestic-animal","lncrna","database",4,"opaque","opaque",1006
+22110032,2012,"dampd",5,"dam","mpd","pd","dragon antimicrobial peptide database","dragon","antimicrobial peptide","database",4,"opaque","opaque",1006
+23415072,2013,"desmsci",7,"des","sci","ci","dragon exploration system on marine sponge compounds interactions","dragon","exploration system on marine sponge compounds","interactions",8,"opaque","opaque",1006
+25326239,2014,"deop",4,"deo","eop","op","dragon explorer of osmoprotection associated pathways","dragon","explorer of osmoprotection associated","pathways",6,"opaque","opaque",1006
+32527280,2020,"ddiem",5,"ddi","iem","em","drug database for inborn errors of metabolism","drug","database for inborn errors of","metabolism",7,"opaque","opaque",1006
+34774049,2021,"dream",5,"dre","eam","am","drug response gene expression associated map","drug","response gene expression associated","map",6,"opaque","opaque",1006
+25990557,2015,"dsigdb",6,"dsi","gdb","db","drug signatures database","drug","signatures","database",3,"opaque","opaque",1006
+24122041,2013,"dgidb",5,"dgi","idb","db","drug-gene interaction database","drug-gene","interaction","database",4,"opaque","opaque",1006
+23109553,2013,"ecmdb",5,"ecm","mdb","db","e coli metabolome database","e","coli metabolome","database",4,"opaque","opaque",1006
+32964659,2020,"eanpdb",6,"ean","pdb","db","eastern africa natural products database","eastern","africa natural products","database",5,"opaque","opaque",1006
+24302289,2013,"eddb",4,"edd","ddb","db","eating disorder database","eating","disorder","database",3,"opaque","opaque",1006
+30357418,2019,"edk",3,"edk","edk","dk","editome-disease knowledgebase","editome-disease","","knowledgebase",3,"opaque","opaque",1006
+23411718,2013,"eimeriatdb",10,"eim","tdb","db","eimeria transcript db","eimeria","transcript","db",3,"opaque","translucent",94
+22828716,2012,"ecg-view",8,"ecg","iew","ew","electrocardiogram vigilance with electronic data warehouse ii","electrocardiogram","vigilance with electronic data warehouse","ii",7,"opaque","opaque",1006
+30008982,2018,"emdb",4,"emd","mdb","db","electron microscopy data bank","electron","microscopy data","bank",4,"opaque","opaque",1006
+24318814,2014,"emage",5,"ema","age","ge","electronic mouse atlas of gene expression","electronic","mouse atlas of gene","expression",6,"opaque","opaque",1006
+23798489,2013,"efg",3,"efg","efg","fg","electronic resource for fusarium graminearum","electronic","resource for fusarium","graminearum",5,"opaque","opaque",1006
+23794736,2013,"escape",6,"esc","ape","pe","embryonic stem cell atlas of pluripotency evidence","embryonic","stem cell atlas of pluripotency","evidence",7,"opaque","opaque",1006
+32728249,2020,"encode",6,"enc","ode","de","encyclopedia of dna elements","encyclopedia","of dna","elements",4,"opaque","opaque",1006
+28981707,2018,"epd",3,"epd","epd","pd","encyclopedia of proteome dynamics","encyclopedia","of proteome","dynamics",4,"opaque","opaque",1006
+29106618,2018,"eram",4,"era","ram","am","encyclopedia of rare disease annotations for precision medicine","encyclopedia","of rare disease annotations for precision","medicine",8,"opaque","opaque",1006
+26699919,2016,"ecgene",6,"ecg","ene","ne","endometrial cancer gene database","endometrial","cancer gene","database",4,"translucent","translucent",17
+23340253,2013,"edr",3,"edr","edr","dr","endometrium database resource","endometrium","database","resource",3,"opaque","opaque",1006
+23161695,2013,"epros",5,"epr","ros","os","energy profile suite","energy","profile","suite",3,"opaque","opaque",1006
+23203870,2013,"eendb",5,"een","ndb","db","engineered endonuclease database","engineered","endonuclease","database",3,"opaque","opaque",1006
+24678734,2014,"epslim",6,"eps","lim","im","ensemble predictor for short linear motifs","ensemble","predictor for short linear","motifs",6,"opaque","opaque",1006
+27664130,2016,"envo",4,"env","nvo","vo","environment ontology","environment","","ontology",2,"opaque","opaque",1006
+26582924,2016,"envipath",8,"env","ath","th","environmental contaminant biotransformation pathway resource","environmental","contaminant biotransformation pathway","resource",5,"opaque","translucent",94
+25324316,2015,"ezcatdb",7,"ezc","tdb","db","enzyme reaction database","enzyme","reaction","database",3,"opaque","translucent",94
+30446142,2019,"eps-db",6,"eps","-db","db","eps database","eps","","database",2,"opaque","opaque",1006
+25352573,2015,"ecodab",6,"eco","dab","ab","escherichia coli o-antigen database","escherichia","coli o-antigen","database",5,"opaque","opaque",1006
+25414353,2015,"ehfpi",5,"ehf","fpi","pi","essential host factors for pathogenic infection","essential","host factors for pathogenic","infection",6,"opaque","opaque",1006
+23897986,2013,"eadb",4,"ead","adb","db","estrogenic activity database","estrogenic","activity","database",3,"opaque","opaque",1006
+21317139,2011,"egob",4,"ego","gob","ob","eukaryotic gene order browser","eukaryotic","gene order","browser",4,"opaque","opaque",1006
+22110040,2012,"elm",3,"elm","elm","lm","eukaryotic linear motif","eukaryotic","linear","motif",3,"opaque","opaque",1006
+30476229,2019,"enpd",4,"enp","npd","pd","eukaryotic nucleic acid binding protein database","eukaryotic","nucleic acid binding protein","database",6,"opaque","opaque",1006
+23175615,2013,"eupathdb",8,"eup","hdb","db","eukaryotic pathogen genomics database resource","eukaryotic","pathogen genomics database","resource",5,"opaque","translucent",94
+32008039,2021,"epsd",4,"eps","psd","sd","eukaryotic phosphorylation site database","eukaryotic","phosphorylation site","database",4,"opaque","opaque",1006
+31680159,2020,"epd",3,"epd","epd","pd","eukaryotic promoter database","eukaryotic","promoter","database",3,"opaque","opaque",1006
+29351734,2018,"eogd",4,"eog","ogd","gd","euplotes octocarinatus genome database","euplotes","octocarinatus genome","database",4,"opaque","opaque",1006
+24569102,2015,"eco",3,"eco","eco","co","european cancer observatory","european","cancer","observatory",3,"opaque","opaque",1006
+22080548,2012,"ena",3,"ena","ena","na","european nucleotide archive","european","nucleotide","archive",3,"opaque","opaque",1006
+24444128,2014,"egtc",4,"egt","gtc","tc","exchangeable gene trap clones","exchangeable","gene trap","clones",4,"opaque","opaque",1006
+32862462,2021,"exed",4,"exe","xed","ed","expansin engineering database","expansin","engineering","database",3,"opaque","opaque",1006
+25378301,2015,"mirdb",5,"mir","rdb","db","extracellular matrix interaction database","extracellular","matrix interaction","database",4,"opaque","translucent",94
+34048547,2021,"emirit",6,"emi","rit","it","extracting mirna information from text","extracting","mirna information from","text",5,"opaque","opaque",1006
+34368755,2021,"fimdb",5,"fim","mdb","db","face image meta-database","face","image","meta-database",4,"opaque","opaque",1006
+33511767,2021,"fawmine",7,"faw","ine","ne","fall armyworm genome database","fall","armyworm genome","database",4,"opaque","opaque",1006
+32076423,2020,"fhldb",5,"fhl","ldb","db","familial hemophagocytic database","familial","hemophagocytic","database",3,"opaque","opaque",1006
+23993619,2013,"afish",5,"afi","ish","sh","fao/infoods database on fish and shellfish","fao/infoods","database on fish and","shellfish",7,"translucent","translucent",17
+28245064,2017,"fred",4,"fre","red","ed","fine-root ecology database","fine-root","ecology","database",4,"opaque","opaque",1006
+22715304,2012,"fbis",4,"fbi","bis","is","fish barcode information system","fish","barcode information","system",4,"opaque","opaque",1006
+26317619,2015,"fmir",4,"fmi","mir","ir","fish mitogenome resource","fish","mitogenome","resource",3,"opaque","opaque",1006
+29126995,2018,"fvd",3,"fvd","fvd","vd","fish-associated virus database","fish-associated","virus","database",4,"opaque","opaque",1006
+26476447,2016,"flor-id",7,"flo","-id","id","flowering-interactive database","flowering-interactive","","database",3,"opaque","opaque",1006
+33511845,2021,"fmodb",5,"fmo","odb","db","fmo database","fmo","","database",2,"opaque","opaque",1006
+34626475,2021,"feda",4,"fed","eda","da","food enzyme database","food","enzyme","database",3,"opaque","opaque",1006
+23459781,2013,"frida",5,"fri","ida","da","foodcast research image database","foodcast","research image","database",4,"opaque","opaque",1006
+26456067,2016,"flad",4,"fla","lad","ad","forensic loci allele database","forensic","loci allele","database",4,"opaque","opaque",1006
+29175726,2018,"frog-kb",7,"fro","-kb","kb","forensic resource/reference on genetics-knowledge base","forensic","resource/reference on genetics-knowledge","base",7,"opaque","opaque",1006
+23951158,2013,"fmmdb",5,"fmm","mdb","db","foxtail millet marker database","foxtail","millet marker","database",4,"opaque","opaque",1006
+25005261,2014,"fmtfdb",6,"fmt","fdb","db","foxtail millet transcription factors database","foxtail","millet transcription factors","database",5,"opaque","opaque",1006
+34793786,2022,"fccp",4,"fcc","ccp","cp","fragrance chemicals in children's products","fragrance","chemicals in children's","products",6,"opaque","opaque",1006
+25352729,2014,"fcdd",4,"fcd","cdd","dd","fruit crops diseases database","fruit","crops diseases","database",4,"opaque","opaque",1006
+33897975,2021,"fgdb",4,"fgd","gdb","db","fsh glycans database","fsh","glycans","database",3,"opaque","opaque",1006
+31034103,2019,"fat-ptm",7,"fat","ptm","tm","functional analysis tools for post-translational modifications","functional","analysis tools for post-translational","modifications",7,"opaque","opaque",1006
+34220930,2021,"faang",5,"faa","ang","ng","functional annotation of animal genomes","functional","annotation of animal","genomes",5,"opaque","opaque",1006
+27794045,2017,"fantom5",7,"fan","om5","m5","functional annotation of the mammalian genome","functional","annotation of the mammalian","genome",6,"opaque","opaque",1006
+28077567,2017,"farme",5,"far","rme","me","functional antibiotic resistant metagenomic element","functional","antibiotic resistant metagenomic","element",5,"opaque","opaque",1006
+24101916,2013,"fungene",7,"fun","ene","ne","functional gene pipeline and repository","functional","gene pipeline and","repository",5,"opaque","translucent",94
+25260589,2014,"foam",4,"foa","oam","am","functional ontology assignments for metagenomes","functional","ontology assignments for","metagenomes",5,"opaque","opaque",1006
+24564786,2013,"fpdb",4,"fpd","pdb","db","fungal pcwde database","fungal","pcwde","database",3,"opaque","opaque",1006
+24885079,2014,"fpoxdb",6,"fpo","xdb","db","fungal peroxidase database","fungal","peroxidase","database",3,"opaque","opaque",1006
+21300622,2011,"funseckb",8,"fun","ckb","kb","fungal secretome knowledgebase","fungal","secretome","knowledgebase",3,"opaque","translucent",94
+29688353,2018,"fsd",3,"fsd","fsd","sd","fungal stress database","fungal","stress","database",3,"opaque","opaque",1006
+23757396,2013,"fsrd",4,"fsr","srd","rd","fungal stress response database","fungal","stress response","database",4,"opaque","opaque",1006
+22267904,2012,"fed",3,"fed","fed","ed","fusion events database","fusion","events","database",3,"opaque","opaque",1006
+30407583,2019,"fusiongdb",9,"fus","gdb","db","fusion gene annotation database","fusion","gene annotation","database",4,"opaque","transparent",17
+27794553,2017,"fuzdb",5,"fuz","zdb","db","fuzdb database","fuzdb","","database",2,"opaque","opaque",1006
+21410407,2011,"gripdb",6,"gri","pdb","db","g protein coupled receptor interaction partners database","g","protein coupled receptor interaction partners","database",7,"opaque","opaque",1006
+24304901,2014,"gpcrdb",6,"gpc","rdb","db","g protein-coupled receptors database","g","protein-coupled receptors","database",5,"opaque","opaque",1006
+23161677,2013,"g4ldb",5,"g4l","ldb","db","g-quadruplex ligands database","g-quadruplex","ligands","database",4,"opaque","opaque",1006
+24150938,2014,"geisha",6,"gei","sha","ha","gallus expression in situ hybridization analysis","gallus","expression in situ hybridization","analysis",6,"opaque","opaque",1006
+26851225,2017,"ged",3,"ged","ged","ed","gametogenesis epigenetic modification database","gametogenesis","epigenetic modification","database",4,"opaque","opaque",1006
+27127885,2016,"gcgene",6,"gcg","ene","ne","gastric cancer gene database","gastric","cancer gene","database",4,"translucent","translucent",17
+30268934,2018,"gaad",4,"gaa","aad","ad","gene and autoimmiune disease association database","gene","and autoimmiune disease association","database",6,"opaque","opaque",1006
+31296229,2019,"gent2",5,"gen","nt2","t2","gene expression database of normal and tumor tissues 2","gene","expression database of normal and tumor tissues","2",9,"opaque","opaque",1006
+34877793,2022,"gepsdb",6,"gep","sdb","db","gene expression database of poplar under stress","gene","expression database of poplar under","stress",7,"opaque","opaque",1006
+31277321,2019,"geds",4,"ged","eds","ds","gene expression display server","gene","expression display","server",4,"opaque","opaque",1006
+22123736,2012,"goa",3,"goa","goa","oa","gene ontology annotation","gene","ontology","annotation",3,"opaque","opaque",1006
+33290552,2021,"goc",3,"goc","goc","oc","gene ontology resource","gene","ontology","resource",3,"opaque","opaque",1006
+26039571,2015,"gpa",3,"gpa","gpa","pa","gene perturbation atlas","gene","perturbation","atlas",3,"opaque","opaque",1006
+32055858,2020,"greg",4,"gre","reg","eg","gene regulation graph database","gene","regulation graph","database",4,"opaque","opaque",1006
+30445619,2019,"gtrd",4,"gtr","trd","rd","gene transcription regulation database","gene","transcription regulation","database",4,"opaque","opaque",1006
+28453687,2017,"gdisc",5,"gdi","isc","sc","gene-drug interaction for survival in cancer","gene-drug","interaction for survival in","cancer",7,"opaque","opaque",1006
+27102089,2016,"gat",3,"gat","gat","at","gene-set activity toolbox","gene-set","activity","toolbox",4,"opaque","opaque",1006
+21609420,2011,"gisao.db",8,"gis",".db","db","genes involved in senescence apoptosis and oxidative stress database","genes","involved in senescence apoptosis and oxidative stress","database",9,"opaque","opaque",1006
+27242038,2016,"gesdb",5,"ges","sdb","db","genetic epidemiology simulation database","genetic","epidemiology simulation","database",4,"opaque","opaque",1006
+31725863,2017,"grons",5,"gro","ons","ns","genetic resources of nicotine and smoking","genetic","resources of nicotine and","smoking",6,"opaque","opaque",1006
+23193275,2013,"gtr",3,"gtr","gtr","tr","genetic testing registry","genetic","testing","registry",3,"opaque","opaque",1006
+31283070,2019,"vipdb",5,"vip","pdb","db","genetic variant impact predictor database","genetic","variant impact predictor","database",5,"opaque","opaque",1006
+34859531,2022,"gnomad",6,"gno","mad","ad","genome aggregation database","genome","aggregation","database",3,"opaque","opaque",1006
+22417913,2012,"gcd",3,"gcd","gcd","cd","genome composition database","genome","composition","database",3,"opaque","opaque",1006
+30357347,2019,"gdr",3,"gdr","gdr","dr","genome database for rosaceae","genome","database for","rosaceae",4,"opaque","opaque",1006
+28387199,2017,"gsa",3,"gsa","gsa","sa","genome sequence archive","genome","sequence","archive",3,"opaque","opaque",1006
+31608375,2019,"gsad",4,"gsa","sad","ad","genome size in asteraceae database","genome","size in asteraceae","database",5,"opaque","opaque",1006
+31210272,2019,"graingenes",10,"gra","nes","es","genome specific primers","genome","specific","primers",3,"opaque","translucent",94
+32758136,2020,"gsdb",4,"gsd","sdb","db","genome structure database","genome","structure","database",3,"opaque","opaque",1006
+29069473,2018,"gvm",3,"gvm","gvm","vm","genome variation map","genome","variation","map",3,"opaque","opaque",1006
+34175476,2021,"gwh",3,"gwh","gwh","wh","genome warehouse","genome","","warehouse",2,"opaque","opaque",1006
+25065645,2014,"ectogem",7,"ect","gem","em","genome-scale metabolic network of ectocarpus","genome-scale","metabolic network of","ectocarpus",6,"opaque","opaque",1006
+23245398,2012,"gwidd",5,"gwi","idd","dd","genome-wide docking database","genome-wide","docking","database",4,"opaque","opaque",1006
+24767249,2014,"gmtv",4,"gmt","mtv","tv","genome-wide mycobacterium tuberculosis variation","genome-wide","mycobacterium tuberculosis","variation",5,"opaque","opaque",1006
+25428361,2015,"grasp",5,"gra","asp","sp","genome-wide repository of associations between snps and phenotypes","genome-wide","repository of associations between snps and","phenotypes",9,"opaque","opaque",1006
+27794040,2017,"gold",4,"gol","old","ld","genomes online database","genomes","online","database",3,"opaque","opaque",1006
+27045824,2016,"gpkb",4,"gpk","pkb","kb","genomic and proteomic knowledge base","genomic","and proteomic knowledge","base",5,"opaque","opaque",1006
+28771471,2017,"geome",5,"geo","ome","me","genomic observatories metadatabase","genomic","observatories","metadatabase",3,"opaque","opaque",1006
+24007337,2013,"grasp",5,"gra","asp","sp","genomic resource access for stoichioproteomics","genomic","resource access for","stoichioproteomics",5,"opaque","opaque",1006
+26673694,2016,"gtrnadb",7,"gtr","adb","db","genomic trna database","genomic","trna","database",3,"translucent","opaque",6
+32330167,2020,"geoboundaries",13,"geo","ies","es","geoboundaries global administrative database","geoboundaries","global administrative","database",4,"opaque","translucent",94
+27037912,2016,"gamdb",5,"gam","mdb","db","gerontology-autophagic-microrna database","gerontology-autophagic-microrna","","database",4,"opaque","opaque",1006
+25010047,2014,"gbm-biodp",9,"gbm","odp","dp","glioblastoma bio discovery portal","glioblastoma","bio discovery","portal",4,"opaque","opaque",1006
+30365027,2019,"gcmeta",6,"gcm","eta","ta","global catalogue of metagenomics","global","catalogue of","metagenomics",4,"opaque","opaque",1006
+24377417,2013,"gcm",3,"gcm","gcm","cm","global catalogue of microorganisms","global","catalogue of","microorganisms",4,"opaque","opaque",1006
+33119759,2021,"gctype",6,"gct","ype","pe","global catalogue of type strain","global","catalogue of type","strain",5,"opaque","opaque",1006
+34158935,2021,"gemi",4,"gem","emi","mi","global earth mineral inventory","global","earth mineral","inventory",4,"opaque","opaque",1006
+27694206,2016,"ggbn",4,"ggb","gbn","bn","global genome biodiversity network","global","genome biodiversity","network",4,"opaque","opaque",1006
+24336862,2014,"giga",4,"gig","iga","ga","global invertebrate genomics alliance","global","invertebrate genomics","alliance",4,"opaque","opaque",1006
+27504778,2016,"gnps",4,"gnp","nps","ps","global natural products social molecular networking","global","natural products social molecular","networking",6,"opaque","opaque",1006
+34378141,2022,"gpgd",4,"gpg","pgd","gd","global pharmacopoeia genome database","global","pharmacopoeia genome","database",4,"opaque","opaque",1006
+23104379,2013,"gfdb",4,"gfd","fdb","db","glycan fragment database","glycan","fragment","database",3,"opaque","opaque",1006
+31841142,2020,"glymdb",6,"gly","mdb","db","glycan microarray database","glycan","microarray","database",3,"opaque","translucent",94
+32163115,2020,"grall",5,"gra","all","ll","glycine receptor allosteric ligands library","glycine","receptor allosteric ligands","library",5,"opaque","opaque",1006
+27436239,2016,"glycogait",9,"gly","ait","it","glycosylation and gut associated immune tolerance","glycosylation","and gut associated immune","tolerance",6,"opaque","translucent",94
+33965348,2021,"ggvd",4,"ggv","gvd","vd","goat genome variation database","goat","genome variation","database",4,"opaque","translucent",94
+28365739,2017,"grtedb",6,"grt","edb","db","gossypium raimondii transposable elements database","gossypium","raimondii transposable elements","database",5,"opaque","opaque",1006
+20931385,2011,"gramene",7,"gra","ene","ne","gramene database","gramene","","database",2,"opaque","opaque",1006
+31592084,2019,"gcgvd",5,"gcg","gvd","vd","grass carp genomic visualization database","grass","carp genomic visualization","database",5,"opaque","translucent",94
+26578586,2016,"greenc",6,"gre","enc","nc","green non-coding database","green","non-coding","database",4,"opaque","opaque",1006
+33252190,2021,"grindb",6,"gri","ndb","db","grin database","grin","","database",2,"opaque","opaque",1006
+21337704,2011,"gpde",4,"gpd","pde","de","griss proteomics database engine","griss","proteomics database","engine",4,"opaque","opaque",1006
+32496513,2021,"gutmega",7,"gut","ega","ga","gut metagenome atlas","gut","metagenome","atlas",3,"opaque","opaque",1006
+22016855,2011,"gydb",4,"gyd","ydb","db","gypsy database concerning mobile genetic","gypsy","database concerning mobile","genetic",5,"opaque","opaque",1006
+23245335,2013,"h-invdb",7,"h-i","vdb","db","h-invitational database","h-invitational","","database",3,"opaque","opaque",1006
+25450223,2014,"higdb",5,"hig","gdb","db","haemophilus influenzae genome database","haemophilus","influenzae genome","database",4,"opaque","opaque",1006
+25468930,2014,"hprotdb",7,"hpr","tdb","db","halophile protein database","halophile","protein","database",3,"opaque","translucent",94
+23095476,2012,"hfwadb",6,"hfw","adb","db","hawaiian freshwater algal database","hawaiian","freshwater algal","database",4,"opaque","opaque",1006
+27527702,2016,"hcvivdb",7,"hcv","vdb","db","hcv ires variation database","hcv","ires variation","database",4,"opaque","opaque",1006
+31139565,2019,"hncdb",5,"hnc","cdb","db","head and neck cancer database","head","and neck cancer","database",5,"opaque","opaque",1006
+22874333,2012,"hetop",5,"het","top","op","health terminology/ontology portal","health","terminology/ontology","portal",4,"opaque","opaque",1006
+30053237,2018,"hdncrna",7,"hdn","rna","na","heart disease-related non-coding rnas database","heart","disease-related non-coding rnas","database",7,"translucent","translucent",17
+34791105,2021,"hfip",4,"hfi","fip","ip","heart failure integrated platform","heart","failure integrated","platform",4,"opaque","opaque",1006
+22923302,2012,"hspir",5,"hsp","pir","ir","heat shock protein information resource","heat","shock protein information","resource",5,"opaque","opaque",1006
+33417691,2021,"hgfdb",5,"hgf","fdb","db","helmeted guinea fowl database","helmeted","guinea fowl","database",4,"opaque","opaque",1006
+21760913,2011,"helmcop",7,"hel","cop","op","helminth control and prevention","helminth","control and","prevention",4,"opaque","opaque",1006
+23281827,2012,"hsd",3,"hsd","hsd","sd","helminth secretome database","helminth","secretome","database",3,"opaque","opaque",1006
+26590403,2016,"sbr-blood",9,"sbr","ood","od","hematopoietic systems biology repository","hematopoietic","systems biology","repository",4,"opaque","translucent",94
+28708269,2017,"hemeoxdb",8,"hem","xdb","db","heme oxygenase database","heme","oxygenase","database",3,"opaque","transparent",17
+22064861,2012,"hfv",3,"hfv","hfv","fv","hemorrhagic fever virus database","hemorrhagic","fever virus","database",4,"opaque","opaque",1006
+21930248,2011,"hcvpro",6,"hcv","pro","ro","hepatitis c virus protein interaction database","hepatitis","c virus protein interaction","database",6,"opaque","opaque",1006
+30266410,2018,"hccdb",5,"hcc","cdb","db","hepatocellular carcinoma database","hepatocellular","carcinoma","database",3,"opaque","opaque",1006
+34164644,2021,"hfbd",4,"hfb","fbd","bd","hf biomarker knowledge database","hf","biomarker knowledge","database",4,"opaque","opaque",1006
+33259604,2020,"hahmir.db",9,"hah",".db","db","high-altitude human mirna database","high-altitude","human mirna","database",5,"opaque","translucent",94
+28365729,2017,"hivoligodb",10,"hiv","odb","db","hiv oligonucleotide database","hiv","oligonucleotide","database",3,"opaque","transparent",17
+27189608,2016,"hla-adr",7,"hla","adr","dr","hla and adverse drug reaction database","hla","and adverse drug reaction","database",6,"opaque","opaque",1006
+23016940,2011,"homeodb2",8,"hom","db2","b2","homeobox gene database","homeobox","gene","database",3,"opaque","opaque",1006
+24931751,2014,"hombrex",7,"hom","rex","ex","homeopathy basic research experiments","homeopathy","basic research","experiments",4,"opaque","opaque",1006
+26586801,2016,"hocomoco",8,"hoc","oco","co","homo sapiens comprehensive model collection","homo","sapiens comprehensive model","collection",5,"opaque","opaque",1006
+29315358,2018,"htt-db",6,"htt","-db","db","horizontal transposon transfer database","horizontal","transposon transfer","database",4,"opaque","opaque",1006
+25178365,2014,"hsdb",4,"hsd","sdb","db","horse single nucleotide polymorphism and expression database","horse","single nucleotide polymorphism and expression","database",7,"opaque","opaque",1006
+33045729,2021,"gimica",6,"gim","ica","ca","host genetic and immune factors shaping human microbiota","host","genetic and immune factors shaping human","microbiota",8,"opaque","opaque",1006
+29028885,2018,"hotresdb",8,"hot","sdb","db","host transcriptional response database","host","transcriptional response","database",4,"opaque","opaque",1006
+24137008,2014,"hopaci-db",9,"hop","-db","db","host-pseudomonas and coxiella interaction database","host-pseudomonas","and coxiella interaction","database",6,"opaque","opaque",1006
+23193293,2013,"hagr",4,"hag","agr","gr","human ageing genomic resources","human","ageing genomic","resources",4,"opaque","opaque",1006
+22613085,2012,"haltorf",7,"hal","orf","rf","human alternative open reading frames","human","alternative open reading","frames",5,"opaque","translucent",94
+28212602,2017,"happi",5,"hap","ppi","pi","human annotated and predicted protein interactions","human","annotated and predicted protein","interactions",6,"opaque","opaque",1006
+30066211,2018,"hamdb",5,"ham","mdb","db","human autophagy modulator database","human","autophagy modulator","database",4,"opaque","opaque",1006
+34642750,2021,"hbfp",4,"hbf","bfp","fp","human body fluid proteome","human","body fluid","proteome",4,"opaque","opaque",1006
+31976536,2020,"hbdb",4,"hbd","bdb","db","human breathomics database","human","breathomics","database",3,"opaque","opaque",1006
+29088455,2018,"hcmdb",5,"hcm","mdb","db","human cancer metastasis database","human","cancer metastasis","database",4,"opaque","opaque",1006
+28529078,2017,"hcsgd",5,"hcs","sgd","gd","human cellular senescence gene database","human","cellular senescence gene","database",5,"opaque","opaque",1006
+25332398,2015,"depod",5,"dep","pod","od","human dephosphorylation database","human","dephosphorylation","database",3,"opaque","opaque",1006
+23369322,2013,"hdam",4,"hda","dam","am","human disease associated mutation","human","disease associated","mutation",4,"opaque","opaque",1006
+33439542,2021,"hdg",3,"hdg","hdg","dg","human disease genes website series","human","disease genes website","series",5,"opaque","opaque",1006
+26631432,2016,"hdi",3,"hdi","hdi","di","human disease insight","human","disease","insight",3,"opaque","opaque",1006
+22135302,2012,"diseasemeth",11,"dis","eth","th","human disease methylation database","human","disease methylation","database",4,"translucent","transparent",12
+29077884,2018,"hedd",4,"hed","edd","dd","human enhancer disease database","human","enhancer disease","database",4,"opaque","opaque",1006
+33119754,2021,"hera",4,"her","era","ra","human enhancer rna atlas","human","enhancer rna","atlas",4,"opaque","opaque",1006
+22761927,2012,"hemd",4,"hem","emd","md","human epigenetic enzyme and modulator database","human","epigenetic enzyme and modulator","database",6,"opaque","opaque",1006
+30032758,2018,"hfmdb",5,"hfm","mdb","db","human fecal metabolome database","human","fecal metabolome","database",4,"opaque","opaque",1006
+22140100,2012,"hgpd",4,"hgp","gpd","pd","human gene and protein database","human","gene and protein","database",5,"opaque","opaque",1006
+22948725,2012,"hgmd",4,"hgm","gmd","md","human gene mutation database","human","gene mutation","database",4,"opaque","opaque",1006
+23717556,2013,"hgpgd",5,"hgp","pgd","gd","human gene population genetic difference database","human","gene population genetic difference","database",6,"opaque","opaque",1006
+27733501,2017,"hipsci",6,"hip","sci","ci","human induced pluripotent stem cell initiative","human","induced pluripotent stem cell","initiative",6,"opaque","opaque",1006
+31783725,2019,"hkpocket",8,"hkp","ket","et","human kinase pocket","human","kinase","pocket",3,"opaque","translucent",94
+23584836,2013,"hlgdb",5,"hlg","gdb","db","human lysosome gene database","human","lysosome gene","database",4,"opaque","opaque",1006
+26209309,2015,"hma",3,"hma","hma","ma","human metabolic atlas","human","metabolic","atlas",3,"opaque","opaque",1006
+30364956,2019,"hmdd",4,"hmd","mdd","dd","human microrna disease database","human","microrna disease","database",4,"opaque","opaque",1006
+28967693,2018,"huma",4,"hum","uma","ma","human mutation analysis","human","mutation","analysis",3,"opaque","opaque",1006
+23585031,2013,"horde",5,"hor","rde","de","human olfactory receptor data explorer","human","olfactory receptor data","explorer",5,"opaque","opaque",1006
+34846641,2022,"hodd",4,"hod","odd","dd","human ophthalmic diseases database","human","ophthalmic diseases","database",4,"opaque","opaque",1006
+29760467,2018,"homd",4,"hom","omd","md","human oral microbiome database","human","oral microbiome","database",4,"opaque","opaque",1006
+22165817,2011,"homer",5,"hom","mer","er","human organ-specific molecular","human","organ-specific","molecular",4,"opaque","opaque",1006
+26578596,2016,"hpmc",4,"hpm","pmc","mc","human pan-microbe communities","human","pan-microbe","communities",4,"opaque","opaque",1006
+24217912,2014,"hpo",3,"hpo","hpo","po","human phenotype ontology project","human","phenotype ontology","project",4,"opaque","opaque",1006
+22804825,2013,"hupho",5,"hup","pho","ho","human phosphatase portal","human","phosphatase","portal",3,"opaque","opaque",1006
+32707486,2020,"hpscreg",7,"hps","reg","eg","human pluripotent stem cell registry","human","pluripotent stem cell","registry",5,"opaque","opaque",1006
+23282181,2012,"pcdq",4,"pcd","cdq","dq","human protein complex database","human","protein complex","database",4,"opaque","opaque",1006
+34032471,2021,"hsp",3,"hsp","hsp","sp","human salivary proteome wiki","human","salivary proteome","wiki",4,"opaque","opaque",1006
+30371817,2019,"sedb",4,"sed","edb","db","human super-enhancer database","human","super-enhancer","database",4,"opaque","opaque",1006
+23436708,2013,"htpd",4,"htp","tpd","pd","human testis proteome database","human","testis proteome","database",4,"opaque","opaque",1006
+34534667,2021,"texas",5,"tex","xas","as","human tissue-specific exposome atlas","human","tissue-specific exposome","atlas",5,"opaque","opaque",1006
+22900683,2012,"htridb",6,"htr","idb","db","human transcriptional regulation interactions database","human","transcriptional regulation interactions","database",5,"opaque","opaque",1006
+24558441,2014,"htd",3,"htd","htd","td","human transporter database","human","transporter","database",3,"opaque","opaque",1006
+28334239,2018,"coexpressmap",12,"coe","map","ap","human-mouse general co-expression difference database","human-mouse","general co-expression difference","database",7,"opaque","transparent",17
+33515030,2021,"hvidb",5,"hvi","idb","db","human-virus interaction database","human-virus","interaction","database",4,"opaque","opaque",1006
+29761469,2018,"hgd",3,"hgd","hgd","gd","hymenoptera genome database","hymenoptera","genome","database",3,"opaque","opaque",1006
+23734660,2013,"iedb",4,"ied","edb","db","immune epitope database","immune","epitope","database",3,"opaque","opaque",1006
+22610854,2012,"iedb-ar",7,"ied","-ar","ar","immune epitope database analysis resource","immune","epitope database analysis","resource",5,"opaque","opaque",1006
+23180793,2013,"ipd",3,"ipd","ipd","pd","immuno polymorphism database","immuno","polymorphism","database",3,"opaque","opaque",1006
+23991755,2013,"iimdb",5,"iim","mdb","db","in vivo/in silico metabolites database","in","vivo/in silico metabolites","database",6,"opaque","opaque",1006
+28592645,2017,"isvdb",5,"isv","vdb","db","inbred strain variant database","inbred","strain variant","database",4,"opaque","opaque",1006
+31231133,2019,"ipgb",4,"ipg","pgb","gb","incontinentia pigmenti genetic biobank","incontinentia","pigmenti genetic","biobank",4,"opaque","opaque",1006
+22127860,2012,"indelfr",7,"ind","lfr","fr","indel flanking region database","indel","flanking region","database",4,"opaque","opaque",1006
+21624339,2011,"ilisi",5,"ili","isi","si","index of italian literature on nursing sciences","index","of italian literature on nursing","sciences",7,"opaque","opaque",1006
+22102591,2012,"ibis",4,"ibi","bis","is","inferred biomolecular interaction server","inferred","biomolecular interaction","server",4,"opaque","opaque",1006
+32941628,2021,"iddb",4,"idd","ddb","db","infertility disease database","infertility","disease","database",3,"opaque","opaque",1006
+33929018,2021,"ibddb",5,"ibd","ddb","db","inflammatory bowel disease (ibd) database","inflammatory","bowel disease (ibd)","database",5,"opaque","opaque",1006
+22260278,2012,"ird",3,"ird","ird","rd","influenza research database","influenza","research","database",3,"opaque","opaque",1006
+26519466,2016,"ic4r",4,"ic4","c4r","4r","information commons for rice","information","commons for","rice",4,"opaque","opaque",1006
+24616562,2014,"ibin",4,"ibi","bin","in","insect barcode informatica","insect","barcode","informatica",3,"opaque","opaque",1006
+22984621,2012,"iiid",4,"iii","iid","id","insect innate immunity database","insect","innate immunity","database",4,"opaque","opaque",1006
+29041922,2017,"ican",4,"ica","can","an","institute collection and analysis of nanobodies","institute","collection and analysis of","nanobodies",6,"opaque","opaque",1006
+22698731,2012,"igfmdb",6,"igf","mdb","db","insulin-like growth factor mutation database","insulin-like","growth factor mutation","database",6,"opaque","opaque",1006
+28557712,2017,"ice",3,"ice","ice","ce","integrated chemical environment","integrated","chemical","environment",3,"opaque","opaque",1006
+33740463,2021,"icscb",5,"ics","scb","cb","integrated collection of stem cell bank data","integrated","collection of stem cell bank","data",7,"opaque","opaque",1006
+24324765,2013,"indigo",6,"ind","igo","go","integrated data warehouse of microbial genomes","integrated","data warehouse of microbial","genomes",6,"opaque","opaque",1006
+26516188,2016,"iid",3,"iid","iid","id","integrated interactions database","integrated","interactions","database",3,"opaque","opaque",1006
+22792232,2012,"img/m",5,"img","g/m","/m","integrated microbial genomes and metagenomes","integrated","microbial genomes and","metagenomes",5,"opaque","opaque",1006
+31665416,2020,"img-abc",7,"img","abc","bc","integrated microbial genomes atlas of biosynthetic gene clusters","integrated","microbial genomes atlas of biosynthetic gene","clusters",8,"opaque","opaque",1006
+23046449,2012,"ipad",4,"ipa","pad","ad","integrated pathway analysis database for systematic enrichment analysis","integrated","pathway analysis database for systematic enrichment","analysis",8,"opaque","opaque",1006
+23282057,2012,"intpath",7,"int","ath","th","integrated pathway gene relationship database","integrated","pathway gene relationship","database",5,"opaque","translucent",94
+22140115,2012,"ipavs",5,"ipa","avs","vs","integrated pathway resources","integrated","pathway","resources",3,"opaque","opaque",1006
+27841751,2016,"irrmc",5,"irr","rmc","mc","integrated resource for reproducibility in macromolecular crystallography","integrated","resource for reproducibility in macromolecular","crystallography",7,"opaque","opaque",1006
+22120663,2011,"inoh",4,"ino","noh","oh","integrating network objects with hierarchies","integrating","network objects with","hierarchies",5,"opaque","opaque",1006
+33406221,2021,"icysmod",7,"icy","mod","od","integrative database for protein cysteine modifications in eukaryotes","integrative","database for protein cysteine modifications in","eukaryotes",8,"opaque","translucent",94
+27081555,2015,"ijgvd",5,"ijg","gvd","vd","integrative japanese genome variation database","integrative","japanese genome variation","database",5,"opaque","opaque",1006
+28168018,2017,"irbas",5,"irb","bas","as","intermittent river biodiversity analysis and synthesis","intermittent","river biodiversity analysis and","synthesis",6,"opaque","opaque",1006
+29040670,2018,"ictv",4,"ict","ctv","tv","international committee on taxonomy of viruses","international","committee on taxonomy of","viruses",6,"opaque","opaque",1006
+27638885,2017,"igsr",4,"igs","gsr","sr","international genome sample resource","international","genome sample","resource",4,"opaque","opaque",1006
+26340938,2015,"ikmc",4,"ikm","kmc","mc","international knockout mouse consortium","international","knockout mouse","consortium",4,"opaque","opaque",1006
+22080546,2012,"insdc",5,"ins","sdc","dc","international nucleotide sequence database collaboration","international","nucleotide sequence database","collaboration",5,"opaque","opaque",1006
+30584170,2018,"mdsgene",7,"mds","ene","ne","international parkinson's disease and movement disorder society gene database","international","parkinson's disease and movement disorder society gene","database",10,"translucent","translucent",17
+31838187,2020,"isar",4,"isa","sar","ar","international severe asthma registry","international","severe asthma","registry",4,"opaque","opaque",1006
+28322240,2017,"isciemeds",9,"isc","eds","ds","international spinal cord injury endocrine and metabolic extended data set","international","spinal cord injury endocrine and metabolic extended data","set",10,"opaque","opaque",1006
+22674159,2012,"iuphar-db",9,"iup","-db","db","international union of basic and clinical pharmacology database","international","union of basic and clinical pharmacology","database",8,"opaque","opaque",1006
+22067451,2012,"ideal",5,"ide","eal","al","intrinsically disordered proteins with extensive annotations and literature","intrinsically","disordered proteins with extensive annotations and","literature",8,"opaque","opaque",1006
+21914464,2011,"igd",3,"igd","igd","gd","intronless gene database","intronless","gene","database",3,"opaque","opaque",1006
+27465544,2016,"igdd",4,"igd","gdd","dd","intronless genes database in dicots","intronless","genes database in","dicots",5,"opaque","opaque",1006
+29548284,2018,"idpm",4,"idp","dpm","pm","ion distribution in protein molecules","ion","distribution in protein","molecules",5,"opaque","opaque",1006
+30295851,2019,"jpost",5,"jpo","ost","st","japan proteome standard database","japan","proteome standard","database",4,"opaque","opaque",1006
+29069501,2018,"jmorp",5,"jmo","orp","rp","japanese multi omics reference panel","japanese","multi omics reference","panel",5,"opaque","opaque",1006
+24217911,2014,"agefactdb",9,"age","tdb","db","jenage ageing factor database","jenage","ageing factor","database",4,"translucent","translucent",17
+27630202,2016,"kdd",3,"kdd","kdd","dd","kawasaki disease database","kawasaki","disease","database",3,"opaque","opaque",1006
+21624162,2011,"kupkb",5,"kup","pkb","kb","kidney and urinary pathway knowledge base","kidney","and urinary pathway knowledge","base",6,"opaque","opaque",1006
+32934277,2020,"stonemod",8,"sto","mod","od","kidney stone modulator database","kidney","stone modulator","database",4,"opaque","opaque",1006
+33084889,2021,"klifs",5,"kli","ifs","fs","kinase-ligand interaction fingerprints and structures","kinase-ligand","interaction fingerprints and","structures",6,"opaque","opaque",1006
+23584834,2013,"kddb",4,"kdd","ddb","db","kir and diseases database","kir","and diseases","database",4,"opaque","opaque",1006
+32821400,2020,"kgd",3,"kgd","kgd","gd","kiwifruit genome database","kiwifruit","genome","database",3,"opaque","opaque",1006
+26656885,2015,"kir",3,"kir","kir","ir","kiwifruit information resource","kiwifruit","information","resource",3,"opaque","opaque",1006
+32133509,2020,"krgdb",5,"krg","gdb","db","korean reference genome database","korean","reference genome","database",4,"opaque","opaque",1006
+26519400,2016,"kegg",4,"keg","egg","gg","kyoto encyclopedia of genes and genomes","kyoto","encyclopedia of genes and","genomes",6,"opaque","opaque",1006
+21498547,2011,"lcced",5,"lcc","ced","ed","laccase engineering database","laccase","engineering","database",3,"opaque","opaque",1006
+22547615,2012,"mbled",5,"mbl","led","ed","lactamase engineering database","lactamase","engineering","database",3,"opaque","opaque",1006
+22570419,2012,"lahedes",7,"lah","des","es","laglidadg homing endonuclease database and engineering server","laglidadg","homing endonuclease database and engineering","server",7,"opaque","opaque",1006
+29179110,2018,"land-defend",11,"lan","end","nd","landslides and floods national database","landslides","and floods national","database",5,"opaque","opaque",1006
+31599330,2020,"lsd",3,"lsd","lsd","sd","leaf senescence database","leaf","senescence","database",3,"opaque","opaque",1006
+31605615,2020,"legoo",5,"leg","goo","oo","legume graph-oriented organizer","legume","graph-oriented","organizer",4,"opaque","opaque",1006
+26546515,2016,"lis",3,"lis","lis","is","legume information system","legume","information","system",3,"opaque","opaque",1006
+21353266,2011,"legprot",7,"leg","rot","ot","legume protein sequence datasets","legume","protein sequence","datasets",4,"opaque","translucent",94
+21520333,2011,"lovd",4,"lov","ovd","vd","leiden open-source variation database","leiden","open-source variation","database",5,"opaque","opaque",1006
+25125444,2014,"leishmicrosatdb",15,"lei","tdb","db","leishmania microsatellite database","leishmania","microsatellite","database",3,"opaque","transparent",17
+22750101,2012,"lshgd",5,"lsh","hgd","gd","leprosy susceptible human gene database","leprosy","susceptible human gene","database",5,"opaque","opaque",1006
+23193253,2013,"lamp",4,"lam","amp","mp","library of apicomplexan metabolic pathways","library","of apicomplexan metabolic","pathways",5,"opaque","opaque",1006
+31701147,2020,"lincs",5,"lin","ncs","cs","library of integrated network-based cellular signatures","library","of integrated network-based cellular","signatures",7,"opaque","opaque",1006
+31780665,2019,"ldb",3,"ldb","ldb","db","lichen database","lichen","","database",2,"opaque","opaque",1006
+25776024,2015,"lmpid",5,"lmp","pid","id","linear motif mediated protein interaction database","linear","motif mediated protein interaction","database",6,"opaque","opaque",1006
+24243842,2014,"lpsn",4,"lps","psn","sn","list of prokaryotic names with standing in nomenclature","list","of prokaryotic names with standing in","nomenclature",8,"opaque","opaque",1006
+21707958,2012,"lsd",3,"lsd","lsd","sd","littorina sequence database","littorina","sequence","database",3,"opaque","opaque",1006
+26944085,2017,"lncat",5,"lnc","cat","at","lncrna atlas","lncrna","","atlas",2,"opaque","opaque",1006
+28751672,2017,"lncmap",6,"lnc","map","ap","lncrna connectivity map","lncrna","connectivity","map",3,"opaque","opaque",1006
+24150937,2014,"loqate",6,"loq","ate","te","localizaiton and quantitation atlas of the yeast proteome","localizaiton","and quantitation atlas of the yeast","proteome",8,"opaque","opaque",1006
+30285109,2019,"lncrnadisease",13,"lnc","ase","se","long non-coding rna disease database","long","non-coding rna disease","database",6,"opaque","transparent",17
+23452239,2013,"ljgea",5,"ljg","gea","ea","lotus japonicus gene expression atlas","lotus","japonicus gene expression","atlas",5,"opaque","opaque",1006
+22881376,2012,"ucl ldlr",8,"ucl","dlr","lr","low-density lipoprotein receptor gene familial hypercholesterolemia variant database","low-density","lipoprotein receptor gene familial hypercholesterolemia variant","database",9,"opaque","opaque",1006
+34976312,2022,"lcmd",4,"lcm","cmd","md","lung cancer metabolome database","lung","cancer metabolome","database",4,"opaque","opaque",1006
+33906563,2021,"m6add",5,"m6a","add","dd","m6a-diseases database","m6a-diseases","","database",3,"opaque","opaque",1006
+30841849,2019,"mgap",4,"mga","gap","ap","macaque genotype and phenotype","macaque","genotype and","phenotype",4,"opaque","opaque",1006
+28293068,2016,"mmdb",4,"mmd","mdb","db","magnaporthe oryzae microsatellite database","magnaporthe","oryzae microsatellite","database",4,"opaque","opaque",1006
+25432973,2015,"mcg",3,"mcg","mcg","cg","maize cell genomics","maize","cell","genomics",3,"opaque","opaque",1006
+26896848,2016,"mgfd",4,"mgf","gfd","fd","maize gene families database","maize","gene families","database",4,"opaque","opaque",1006
+33193550,2020,"maizemine",9,"mai","ine","ne","maize genetics and genome database","maize","genetics and genome","database",5,"opaque","transparent",17
+26432828,2016,"maizegdb",8,"mai","gdb","db","maize model organism database","maize","model organism","database",4,"opaque","transparent",17
+29220464,2017,"kipho",5,"kip","pho","ho","malaria parasite kinome-phosphatome resource","malaria","parasite kinome-phosphatome","resource",5,"opaque","opaque",1006
+32766702,2020,"mfga",4,"mfg","fga","ga","male fertility gene atlas","male","fertility gene","atlas",4,"opaque","opaque",1006
+34363073,2021,"mik",3,"mik","mik","ik","male infertility knowledgebase","male","infertility","knowledgebase",3,"opaque","opaque",1006
+32833025,2021,"mndr",4,"mnd","ndr","dr","mammal ncrna-disease repository","mammal","ncrna-disease","repository",4,"opaque","opaque",1006
+31353404,2019,"madb",4,"mad","adb","db","mammalian annotation database tool","mammalian","annotation database","tool",4,"opaque","opaque",1006
+22606288,2012,"mgex-udb",8,"mge","udb","db","mammalian gene expression uterus database","mammalian","gene expression uterus","database",5,"opaque","opaque",1006
+30329070,2019,"raftprot",8,"raf","rot","ot","mammalian lipid raft proteome database","mammalian","lipid raft proteome","database",5,"opaque","translucent",94
+26912953,2015,"mmndb",5,"mmn","ndb","db","mammalian mitochondrial ncrna database","mammalian","mitochondrial ncrna","database",4,"opaque","opaque",1006
+26822098,2017,"mtd",3,"mtd","mtd","td","mammalian transcriptomic database","mammalian","transcriptomic","database",3,"opaque","opaque",1006
+24465676,2014,"mubisida",8,"mub","ida","da","mammalian ubiquitination site database","mammalian","ubiquitination site","database",4,"opaque","opaque",1006
+24143056,2013,"magicdb",7,"mag","cdb","db","mango genetic stocks identification and characterisation database","mango","genetic stocks identification and characterisation","database",7,"opaque","opaque",1006
+24214963,2014,"mcdrp",5,"mcd","drp","rp","manually curated database of rice proteins","manually","curated database of rice","proteins",6,"opaque","opaque",1006
+22545773,2012,"masivedb",8,"mas","edb","db","mapping and analysis of sirevirus elements database","mapping","and analysis of sirevirus elements","database",7,"opaque","opaque",1006
+27069559,2016,"md-cts",6,"md-","cts","ts","marshfield dictionary of clinical and translational science","marshfield","dictionary of clinical and translational","science",7,"opaque","opaque",1006
+29069466,2018,"mga",3,"mga","mga","ga","mass genome annotation repository","mass","genome annotation","repository",4,"opaque","opaque",1006
+22954629,2012,"maconda",7,"mac","nda","da","mass spectrometry contaminants database","mass","spectrometry contaminants","database",4,"opaque","opaque",1006
+28943872,2017,"mahmi",5,"mah","hmi","mi","mechanism of action of the human microbiome","mechanism","of action of the human","microbiome",7,"opaque","opaque",1006
+22058127,2012,"macie",5,"mac","cie","ie","mechanism, annotation and classification in enzymes","mechanism,","annotation and classification in","enzymes",6,"opaque","opaque",1006
+26450962,2016,"mepd",4,"mep","epd","pd","medaka expression pattern database","medaka","expression pattern","database",4,"opaque","opaque",1006
+22701463,2012,"mppd",4,"mpp","ppd","pd","medicago phosphoprotein database","medicago","phosphoprotein","database",3,"opaque","opaque",1006
+25432968,2015,"medicmine",9,"med","ine","ne","medicago truncatula genome database","medicago","truncatula genome","database",4,"opaque","translucent",94
+32079733,2020,"mtsspdb",7,"mts","pdb","db","medicago truncatula small secreted peptide database","medicago","truncatula small secreted peptide","database",6,"opaque","opaque",1006
+22309450,2012,"mtdb",4,"mtd","tdb","db","medicago truncatula transporter database","medicago","truncatula transporter","database",4,"opaque","opaque",1006
+35424258,2021,"mefsat",6,"mef","sat","at","medicinal fungi secondary metabolites and therapeutics","medicinal","fungi secondary metabolites and","therapeutics",6,"opaque","opaque",1006
+24391364,2013,"maps",4,"map","aps","ps","medicinal plant activities, phytochemicals & structural database","medicinal","plant activities, phytochemicals & structural","database",6,"opaque","opaque",1006
+31231773,2019,"mepmirdb",8,"mep","rdb","db","medicinal plant microrna database","medicinal","plant microrna","database",4,"opaque","translucent",94
+27681445,2017,"mpd3",4,"mpd","pd3","d3","medicinal plants database for drug designing","medicinal","plants database for drug","designing",6,"opaque","opaque",1006
+26173767,2015,"mfmd",4,"mfm","fmd","md","mediterranean founder mutation database","mediterranean","founder mutation","database",4,"opaque","opaque",1006
+26424083,2015,"mgdb",4,"mgd","gdb","db","melanoma gene database","melanoma","gene","database",3,"opaque","opaque",1006
+33822911,2021,"mensadb",7,"men","adb","db","membrane protein dimer novel structure analyser database","membrane","protein dimer novel structure analyser","database",7,"opaque","opaque",1006
+24194596,2014,"mp:pd",5,"mp:",":pd","pd","membrane protein packing database","membrane","protein packing","database",4,"opaque","opaque",1006
+24475242,2014,"metametadb",10,"met","adb","db","meta-metagenomic database","meta-metagenomic","","database",3,"opaque","translucent",94
+26322134,2015,"mines",5,"min","nes","es","metabolic in silico network expansions","metabolic","in silico network","expansions",5,"opaque","opaque",1006
+31648227,2019,"manet",5,"man","net","et","metabolic molecular ancestry networks","metabolic","molecular ancestry","networks",4,"opaque","opaque",1006
+33382886,2020,"metsrr",6,"met","srr","rr","metabolic syndrome research resource","metabolic","syndrome research","resource",4,"opaque","opaque",1006
+31637139,2019,"ncrna2mets",10,"ncr","ets","ts","metabolic syndrome-associated non-coding rna database","metabolic","syndrome-associated non-coding rna","database",7,"opaque","translucent",94
+24828308,2014,"meko",4,"mek","eko","ko","metabolite profiling database for knock-out mutants in arabidopsis","metabolite","profiling database for knock-out mutants in","arabidopsis",9,"opaque","opaque",1006
+22096233,2012,"minas",5,"min","nas","as","metal ions in nucleic acids","metal","ions in nucleic","acids",5,"opaque","opaque",1006
+31504189,2020,"melad",5,"mel","lad","ad","metalloenzyme-ligand association database","metalloenzyme-ligand","association","database",4,"opaque","opaque",1006
+33084905,2021,"medas",5,"med","das","as","metazoan developmental alternative splicing database","metazoan","developmental alternative splicing","database",5,"opaque","opaque",1006
+23219992,2013,"ment",4,"men","ent","nt","methylation and expression database of normal and tumor tissues","methylation","and expression database of normal and tumor","tissues",9,"opaque","opaque",1006
+33835460,2021,"met-db",6,"met","-db","db","methyltranscriptome database","methyltranscriptome","","database",2,"opaque","opaque",1006
+21349870,2011,"mpid-t2",7,"mpi","-t2","t2","mhc-peptide interaction database-tr version 2","mhc-peptide","interaction database-tr version","2",7,"opaque","opaque",1006
+29869221,2019,"mu3d",4,"mu3","u3d","3d","miami university deception detection database","miami","university deception detection","database",5,"opaque","opaque",1006
+29177508,2018,"mvp",3,"mvp","mvp","vp","microbe versus phage","microbe","versus","phage",3,"opaque","opaque",1006
+23118485,2013,"mbgd",4,"mbg","bgd","gd","microbial genome database for comparative analysis","microbial","genome database for comparative","analysis",6,"opaque","opaque",1006
+23178820,2013,"microbpad md",12,"mic","md","md","microbial pathogen diagnostic methods database","microbial","pathogen diagnostic methods","database",5,"opaque","opaque",1006
+31042284,2019,"ml repo",7,"ml","epo","po","microbiome learning repo","microbiome","learning","repo",3,"opaque","opaque",1006
+33125077,2021,"masi",4,"mas","asi","si","microbiota-active substance interactions database","microbiota-active","substance interactions","database",5,"opaque","opaque",1006
+33903708,2021,"map",3,"map","map","ap","microrna analysis portal","microrna","analysis","portal",3,"opaque","opaque",1006
+21177657,2011,"mesadb",6,"mes","adb","db","microrna expression and sequence analysis database","microrna","expression and sequence analysis","database",6,"opaque","opaque",1006
+25425035,2014,"micropir",8,"mic","pir","ir","microrna promoter interaction resource","microrna","promoter interaction","resource",4,"opaque","opaque",1006
+28854643,2017,"msdb",4,"msd","sdb","db","microsatellite database","microsatellite","","database",2,"opaque","opaque",1006
+29109711,2017,"mipepbase",9,"mip","ase","se","mimicry peptide database","mimicry","peptide","database",3,"opaque","translucent",94
+22146221,2012,"mnm",3,"mnm","mnm","nm","minimotif miner","minimotif","","miner",2,"opaque","opaque",1006
+31612915,2020,"mibig",5,"mib","big","ig","minimum information about a biosynthetic gene cluster data standard and repository","minimum","information about a biosynthetic gene cluster data standard and","repository",11,"opaque","opaque",1006
+31404401,2019,"mirdrn",6,"mir","drn","rn","mirdrn-mirna disease regulatory network","mirdrn-mirna","disease regulatory","network",5,"opaque","translucent",94
+30963485,2019,"mirandb",7,"mir","ndb","db","mirna algorithmic network database","mirna","algorithmic network","database",4,"opaque","translucent",94
+27742822,2017,"mirpathdb",9,"mir","hdb","db","mirna pathway dictionary database","mirna","pathway dictionary","database",4,"opaque","translucent",94
+29106642,2018,"msdd",4,"msd","sdd","dd","mirna snp disease database","mirna","snp disease","database",4,"opaque","opaque",1006
+25542617,2015,"mseqdr",6,"mse","qdr","dr","mitochondrial disease sequence data resource","mitochondrial","disease sequence data","resource",5,"opaque","opaque",1006
+24170808,2014,"mitobreak",9,"mit","eak","ak","mitochondrial dna breakpoints database","mitochondrial","dna breakpoints","database",4,"opaque","translucent",94
+22123747,2012,"mitozoa",7,"mit","zoa","oa","mitochondrial genome database of metazoans","mitochondrial","genome database of","metazoans",5,"opaque","translucent",94
+25435547,2015,"mpic",4,"mpi","pic","ic","mitochondrial protein import components (mpic) database","mitochondrial","protein import components (mpic)","database",6,"translucent","opaque",6
+34266386,2021,"mitotox",7,"mit","tox","ox","mitochondrial toxicity database","mitochondrial","toxicity","database",3,"opaque","transparent",17
+34729303,2021,"mcdb",4,"mcd","cdb","db","mitotic catastrophe database","mitotic","catastrophe","database",3,"opaque","opaque",1006
+32386298,2020,"mgp portal",10,"mgp","tal","al","mnemiopsis genome project portal","mnemiopsis","genome project","portal",4,"opaque","opaque",1006
+21856757,2011,"modencode",9,"mod","ode","de","model organism encyclopedia of dna elements","model","organism encyclopedia of dna","elements",6,"opaque","opaque",1006
+29284660,2018,"modern",6,"mod","ern","rn","model organism encyclopedia of regulatory networks","model","organism encyclopedia of regulatory","networks",6,"opaque","opaque",1006
+24350770,2014,"moped",5,"mop","ped","ed","model organism protein expression database","model","organism protein expression","database",5,"opaque","opaque",1006
+33835459,2021,"modomics",8,"mod","ics","cs","modification pathways database","modification","pathways","database",3,"opaque","opaque",1006
+29618898,2018,"modii",5,"mod","dii","ii","molecular database on indian insects","molecular","database on indian","insects",5,"opaque","opaque",1006
+25022454,2014,"micad",5,"mic","cad","ad","molecular imaging and contrast agent database","molecular","imaging and contrast agent","database",6,"opaque","opaque",1006
+22096227,2012,"mint",4,"min","int","nt","molecular interaction database","molecular","interaction","database",3,"opaque","opaque",1006
+29155944,2018,"mist",4,"mis","ist","st","molecular interaction search tool","molecular","interaction search","tool",4,"opaque","opaque",1006
+24319143,2014,"mmdb",4,"mmd","mdb","db","molecular modeling database","molecular","modeling","database",3,"opaque","opaque",1006
+28104956,2016,"mpdb",4,"mpd","pdb","db","molecular pathways brain database","molecular","pathways brain","database",4,"opaque","opaque",1006
+30092360,2018,"mpdsdm",6,"mpd","sdm","dm","molecular property diagnostic suite for diabetes mellitus","molecular","property diagnostic suite for diabetes","mellitus",7,"opaque","opaque",1006
+21546393,2011,"msigdb",6,"msi","gdb","db","molecular signatures database","molecular","signatures","database",3,"opaque","opaque",1006
+34510194,2021,"modb",4,"mod","odb","db","mollusca mitochondrial database","mollusca","mitochondrial","database",3,"opaque","opaque",1006
+30944327,2019,"miadb",5,"mia","adb","db","monoterpene indole alkaloid database","monoterpene","indole alkaloid","database",4,"opaque","opaque",1006
+23860041,2014,"mgdd",4,"mgd","gdd","dd","moroccan genetic disease database","moroccan","genetic disease","database",4,"opaque","opaque",1006
+24923822,2014,"morusdb",7,"mor","sdb","db","morus genome database","morus","genome","database",3,"opaque","translucent",94
+32386544,2020,"ccfv3",5,"ccf","fv3","v3","mouse brain common coordinate framework","mouse","brain common coordinate","framework",5,"opaque","opaque",1006
+33104772,2021,"gxd",3,"gxd","gxd","xd","mouse gene expression database","mouse","gene expression","database",4,"opaque","opaque",1006
+22075990,2012,"mgd",3,"mgd","mgd","gd","mouse genome database","mouse","genome","database",3,"opaque","opaque",1006
+23110975,2012,"mgi",3,"mgi","mgi","gi","mouse genome informatics","mouse","genome","informatics",3,"opaque","opaque",1006
+22139941,2012,"mmmdb",5,"mmm","mdb","db","mouse multiple tissue metabolome database","mouse","multiple tissue metabolome","database",5,"opaque","opaque",1006
+22102583,2012,"mpd",3,"mpd","mpd","pd","mouse phenome database","mouse","phenome","database",3,"opaque","opaque",1006
+25332399,2015,"mtb",3,"mtb","mtb","tb","mouse tumor biology database","mouse","tumor biology","database",4,"opaque","opaque",1006
+23071556,2012,"mk4mdd",6,"mk4","mdd","dd","multi-level knowledge base for major depressive disorder","multi-level","knowledge base for major depressive","disorder",8,"opaque","opaque",1006
+28651363,2017,"neurommsig",10,"neu","sig","ig","multimodal mechanistic signatures for neurodegenerative diseases","multimodal","mechanistic signatures for neurodegenerative","diseases",6,"opaque","translucent",94
+31652812,2019,"mmdb",4,"mmd","mdb","db","murine microbiome database","murine","microbiome","database",3,"opaque","opaque",1006
+32777102,2020,"msk-kp",6,"msk","-kp","kp","musculoskeletal knowledge portal","musculoskeletal","knowledge","portal",3,"opaque","opaque",1006
+27907895,2017,"mutlbsgenedb",12,"mut","edb","db","mutated ligand binding site gene database","mutated","ligand binding site gene","database",6,"opaque","translucent",94
+26513174,2015,"mdp",3,"mdp","mdp","dp","mutations and drugs portal","mutations","and drugs","portal",4,"opaque","opaque",1006
+29401218,2018,"muthtp",6,"mut","htp","tp","mutations in human transmembrane proteins","mutations","in human transmembrane","proteins",5,"opaque","opaque",1006
+29036655,2017,"mfib",4,"mfi","fib","ib","mutual folding induced by binding","mutual","folding induced by","binding",5,"opaque","opaque",1006
+33514395,2021,"mpm",3,"mpm","mpm","pm","my personal mutanome","my","personal","mutanome",3,"opaque","opaque",1006
+33653882,2021,"msr",3,"msr","msr","sr","mycobacterial systems resource","mycobacterial","systems","resource",3,"opaque","opaque",1006
+21904429,2011,"mgdb",4,"mgd","gdb","db","mycobacteriophage genome database","mycobacteriophage","genome","database",3,"opaque","opaque",1006
+21584191,2011,"mtb-pcdb",8,"mtb","cdb","db","mycobacterium tuberculosis proteome comparison database","mycobacterium","tuberculosis proteome comparison","database",5,"opaque","opaque",1006
+34025934,2021,"mycotrap-db",11,"myc","-db","db","mycobacterium tuberculosis resistance associated","mycobacterium","tuberculosis resistance","associated",4,"opaque","translucent",94
+21880546,2011,"mtbsd",5,"mtb","bsd","sd","mycobacterium tuberculosis structural database","mycobacterium","tuberculosis structural","database",4,"opaque","opaque",1006
+29897419,2018,"mardy",5,"mar","rdy","dy","mycology antifungal resistance database","mycology","antifungal resistance","database",4,"opaque","opaque",1006
+34900127,2021,"mikb",4,"mik","ikb","kb","myocardial infarction knowledge base","myocardial","infarction knowledge","base",4,"opaque","opaque",1006
+29917040,2018,"mpd",3,"mpd","mpd","pd","mypathogen database","mypathogen","","database",2,"opaque","opaque",1006
+33103271,2020,"nandesyn",8,"nan","syn","yn","nannochloropsis design and synthesis","nannochloropsis","design and","synthesis",4,"opaque","opaque",1006
+21928249,2011,"rbla03s4sp",10,"rbl","4sp","sp","nanosized cancer polymarker biochip project","nanosized","cancer polymarker biochip","project",5,"opaque","opaque",1006
+26013919,2015,"nig_mog",7,"nig","mog","og","national institute of genetics mouse genome database","national","institute of genetics mouse genome","database",7,"opaque","opaque",1006
+21982653,2011,"gentac",6,"gen","tac","ac","national registry of genetically triggered thoracic aortic aneurysms and cardiovascular conditions","national","registry of genetically triggered thoracic aortic aneurysms and cardiovascular","conditions",11,"opaque","opaque",1006
+25178289,2014,"npcdb",5,"npc","cdb","db","native pig and chicken breed database","native","pig and chicken breed","database",6,"opaque","opaque",1006
+27530928,2016,"nldb",4,"nld","ldb","db","natural ligand database","natural","ligand","database",3,"opaque","opaque",1006
+33306802,2020,"npbs",4,"npb","pbs","bs","natural products & biological sources","natural","products & biological","sources",4,"opaque","opaque",1006
+23203877,2013,"npact",5,"npa","act","ct","naturally occurring plant-based anti-cancer compound-activity-target database","naturally","occurring plant-based anti-cancer compound-activity-target","database",10,"opaque","opaque",1006
+26183225,2015,"neu-gd",6,"neu","-gd","gd","near east university genetic mutation database","near","east university genetic mutation","database",6,"opaque","opaque",1006
+33514746,2021,"ngd",3,"ngd","ngd","gd","nelumbo genome database","nelumbo","genome","database",3,"opaque","opaque",1006
+29739837,2018,"nvertx",6,"nve","rtx","tx","nematostella vectensis embryogenesis and regeneration transcriptomics","nematostella","vectensis embryogenesis and regeneration","transcriptomics",6,"opaque","opaque",1006
+23996831,2014,"naps",4,"nap","aps","ps","nencki affective picture system","nencki","affective picture","system",4,"opaque","opaque",1006
+27899613,2017,"nsdna",5,"nsd","dna","na","nervous system disease ncrnaome atlas","nervous","system disease ncrnaome","atlas",5,"translucent","opaque",6
+26516186,2016,"ncg",3,"ncg","ncg","cg","network of cancer genes","network","of cancer","genes",4,"opaque","opaque",1006
+31809863,2019,"psymukb",7,"psy","ukb","kb","neuropsychiatric mutation knowledge base","neuropsychiatric","mutation knowledge","base",4,"opaque","translucent",94
+22517761,2012,"ngs",3,"ngs","ngs","gs","next generation sequencing catalog","next","generation sequencing","catalog",4,"opaque","opaque",1006
+21884625,2011,"nfi-regulome",12,"nfi","ome","me","nfi-regulome database","nfi-regulome","","database",3,"opaque","translucent",94
+28086860,2017,"nadh",4,"nad","adh","dh","nicotiana attenuata data hub","nicotiana","attenuata data","hub",4,"opaque","opaque",1006
+26393351,2015,"dknet",5,"dkn","net","et","niddk information network","niddk","information","network",3,"opaque","opaque",1006
+27152146,2016,"ncro",4,"ncr","cro","ro","non-coding rna ontology","non-coding","rna","ontology",4,"opaque","opaque",1006
+25392405,2015,"nhprtr",6,"nhp","rtr","tr","non-human primate reference transcriptome resource","non-human","primate reference transcriptome","resource",6,"opaque","opaque",1006
+24297257,2014,"nectar",6,"nec","tar","ar","non-synonymous enriched coding mutation archive","non-synonymous","enriched coding mutation","archive",6,"opaque","opaque",1006
+21491493,2011,"ncad",4,"nca","cad","ad","noncoded amino acids database","noncoded","amino acids","database",4,"opaque","opaque",1006
+31640730,2019,"nard",4,"nar","ard","rd","northeast asian reference database","northeast","asian reference","database",4,"opaque","opaque",1006
+27285615,2016,"neihpid",7,"nei","pid","id","northeast india helminth parasite information database","northeast","india helminth parasite information","database",6,"opaque","opaque",1006
+28641017,2017,"nanpdb",6,"nan","pdb","db","northern african natural products database","northern","african natural products","database",5,"opaque","opaque",1006
+30354114,2019,"nr-dbind",8,"nr-","ind","nd","nuclear receptors database including negative data","nuclear","receptors database including negative","data",6,"opaque","opaque",1006
+28775335,2017,"nubbedb",7,"nub","edb","db","nuclei of bioassays, ecophysiology and biosynthesis of natural products database","nuclei","of bioassays, ecophysiology and biosynthesis of natural products","database",10,"opaque","opaque",1006
+24185695,2014,"ndb",3,"ndb","ndb","db","nucleic acid database","nucleic","acid","database",3,"opaque","opaque",1006
+27905517,2016,"g4ipdb",6,"g4i","pdb","db","nucleic acid g-quadruplex structure (g4) interacting proteins database","nucleic","acid g-quadruplex structure (g4) interacting proteins","database",9,"opaque","opaque",1006
+26896846,2016,"naldb",5,"nal","ldb","db","nucleic acid ligand database","nucleic","acid ligand","database",4,"opaque","opaque",1006
+26656949,2016,"npidb",5,"npi","idb","db","nucleic acid-protein interaction database","nucleic","acid-protein interaction","database",5,"opaque","opaque",1006
+33021634,2021,"ndb",3,"ndb","ndb","db","nucleome data bank","nucleome","data","bank",3,"opaque","opaque",1006
+30335176,2019,"nucmap",6,"nuc","map","ap","nucleosome positioning map","nucleosome","positioning","map",3,"opaque","translucent",94
+26507856,2016,"nbdb",4,"nbd","bdb","db","nucleotide binding database","nucleotide","binding","database",3,"opaque","opaque",1006
+29201145,2017,"ocdd",4,"ocd","cdd","dd","obesity and co-morbid disease database","obesity","and co-morbid disease","database",6,"opaque","opaque",1006
+34655133,2022,"oas",3,"oas","oas","as","observed antibody space","observed","antibody","space",3,"opaque","opaque",1006
+31831730,2019,"opd",3,"opd","opd","pd","odonate phenotypic database","odonate","phenotypic","database",3,"opaque","opaque",1006
+32693783,2020,"order",5,"ord","der","er","oilseed rape developmental expression resource","oilseed","rape developmental expression","resource",5,"opaque","opaque",1006
+28365722,2017,"ocappi-db",9,"oca","-db","db","oligonucleotide capture probes for pathogen identification database","oligonucleotide","capture probes for pathogen identification","database",7,"opaque","opaque",1006
+26827236,2016,"ogdd",4,"ogd","gdd","dd","olive genetic diversity database","olive","genetic diversity","database",4,"opaque","opaque",1006
+25399418,2015,"oma",3,"oma","oma","ma","oma orthology database","oma","orthology","database",3,"opaque","opaque",1006
+28511181,2017,"1-cmdb",6,"1-c","mdb","db","one-carbon metabolism database","one-carbon","metabolism","database",4,"opaque","opaque",1006
+25428349,2015,"omim",4,"omi","mim","im","online mendelian inheritance in man","online","mendelian inheritance in","man",5,"opaque","opaque",1006
+30535146,2019,"ogob",4,"ogo","gob","ob","oomycete gene order browser","oomycete","gene order","browser",4,"opaque","opaque",1006
+22768977,2012,"otd",3,"otd","otd","td","oomycete transcriptomics database","oomycete","transcriptomics","database",3,"opaque","opaque",1006
+33361798,2021,"octad",5,"oct","tad","ad","open cancer therapeutic discovery","open","cancer therapeutic","discovery",4,"opaque","opaque",1006
+31566225,2020,"ogrdb",5,"ogr","rdb","db","open germline receptor database","open","germline receptor","database",4,"opaque","opaque",1006
+26578589,2016,"oreganno",8,"ore","nno","no","open regulatory annotation database","open","regulatory annotation","database",4,"opaque","translucent",94
+26496950,2016,"opentein",8,"ope","ein","in","open teratoma investigation","open","teratoma","investigation",3,"opaque","opaque",1006
+31662803,2018,"odiac",5,"odi","iac","ac","open-source data inventory for anthropogenic co2","open-source","data inventory for anthropogenic","co2",7,"opaque","opaque",1006
+33247934,2020,"ogda",4,"ogd","gda","da","organelle genome database for algae","organelle","genome database for","algae",5,"opaque","opaque",1006
+34241085,2021,"ocelot",6,"oce","lot","ot","organic crystals in electronic and light-oriented technologies","organic","crystals in electronic and light-oriented","technologies",8,"opaque","opaque",1006
+28182744,2017,"omdb",4,"omd","mdb","db","organic materials database","organic","materials","database",3,"opaque","opaque",1006
+21890895,2012,"opm",3,"opm","opm","pm","orientations of proteins in membranes","orientations","of proteins in","membranes",5,"opaque","opaque",1006
+26995712,2016,"odcs",4,"odc","dcs","cs","orphan disease connections","orphan","disease","connections",3,"opaque","opaque",1006
+26637529,2015,"onrldb",6,"onr","ldb","db","orphan nuclear receptor ligand binding database","orphan","nuclear receptor ligand binding","database",6,"opaque","opaque",1006
+34122478,2021,"psdx",4,"psd","sdx","dx","p. trichocarpa stem differentiating xylem  database","p.","trichocarpa stem differentiating xylem","database",6,"opaque","opaque",1006
+29223505,2018,"pgmd",4,"pgm","gmd","md","pakistan genetic mutation database","pakistan","genetic mutation","database",4,"opaque","opaque",1006
+29455297,2018,"pep725",6,"pep","725","25","pan european phenological database","pan","european phenological","database",4,"opaque","opaque",1006
+31373607,2020,"pird",4,"pir","ird","rd","pan immune repertoire database","pan","immune repertoire","database",4,"opaque","opaque",1006
+21731755,2011,"pansnpdb",8,"pan","pdb","db","pan-asian snp genotyping database","pan-asian","snp genotyping","database",5,"opaque","translucent",94
+31599098,2020,"psmd",4,"psm","smd","md","pan-species microsatellite database","pan-species","microsatellite","database",4,"opaque","opaque",1006
+24839966,2014,"pcd",3,"pcd","pcd","cd","pancreatic cancer database","pancreatic","cancer","database",3,"opaque","opaque",1006
+24569397,2014,"pcmdb",5,"pcm","mdb","db","pancreatic cancer methylation database","pancreatic","cancer methylation","database",4,"opaque","opaque",1006
+24163255,2014,"ped",3,"ped","ped","ed","pancreatic expression database","pancreatic","expression","database",3,"opaque","opaque",1006
+27616775,2016,"pgd",3,"pgd","pgd","gd","pangolin genome database","pangolin","genome","database",3,"opaque","opaque",1006
+23093593,2013,"pave",4,"pav","ave","ve","papillomavirus episteme","papillomavirus","","episteme",2,"opaque","opaque",1006
+33304468,2020,"pdmethdb",8,"pdm","hdb","db","parkinson's disease methylation database","parkinson's","disease methylation","database",5,"opaque","translucent",94
+25414340,2015,"phi-base",8,"phi","ase","se","pathogen-host interactions database","pathogen-host","interactions","database",4,"opaque","opaque",1006
+31337335,2019,"pptdb",5,"ppt","tdb","db","pathogenic protist transmembranome database","pathogenic","protist transmembranome","database",4,"opaque","opaque",1006
+27625390,2017,"pathoyeastract",14,"pat","act","ct","pathogenic yeast search for transcriptional regulators and consensus tracking","pathogenic","yeast search for transcriptional regulators and consensus","tracking",9,"opaque","translucent",94
+25336619,2015,"paidb",5,"pai","idb","db","pathogenicity island database","pathogenicity","island","database",3,"opaque","opaque",1006
+24225323,2014,"patric",6,"pat","ric","ic","pathosystems resource integration center","pathosystems","resource integration","center",4,"opaque","opaque",1006
+23046413,2012,"paged",5,"pag","ged","ed","pathway and gene enrichment database","pathway","and gene enrichment","database",5,"opaque","opaque",1006
+31950190,2020,"pcalistdb",9,"pca","tdb","db","pca related lifestyle database","pca","related lifestyle","database",4,"opaque","opaque",1006
+32810235,2021,"pcat",4,"pca","cat","at","pdx for childhood cancer therapeutics","pdx","for childhood cancer","therapeutics",5,"opaque","opaque",1006
+29126123,2018,"pedam",5,"ped","dam","am","pediatric disease annotations & medicines","pediatric","disease annotations &","medicines",4,"opaque","translucent",94
+28365721,2017,"pcppi",5,"pcp","ppi","pi","penicillium -crop protein-protein interactions","penicillium","-crop protein-protein","interactions",5,"opaque","opaque",1006
+29982280,2019,"pepbdb",6,"pep","bdb","db","peptide binding database","peptide","binding","database",3,"opaque","translucent",94
+30134653,2018,"padfrag",7,"pad","rag","ag","pesticide and drug fragments","pesticide","and drug","fragments",4,"opaque","opaque",1006
+23162083,2013,"ptid",4,"pti","tid","id","pesticide-target interaction database","pesticide-target","interaction","database",4,"opaque","opaque",1006
+34387941,2021,"pharmgkb",8,"pha","gkb","kb","pharmacogenomics knowledgebase","pharmacogenomics","","knowledgebase",2,"opaque","transparent",17
+22559792,2012,"pkkb",4,"pkk","kkb","kb","pharmacokinetics knowledge base","pharmacokinetics","knowledge","base",3,"opaque","opaque",1006
+28862395,2018,"pms_dn",6,"pms","_dn","dn","phelan-mcdermid syndrome data network","phelan-mcdermid","syndrome data","network",5,"opaque","opaque",1006
+22009677,2012,"phenom",6,"phe","nom","om","phenomics of yeast mutants","phenomics","of yeast","mutants",4,"opaque","translucent",94
+27026615,2016,"phekb",5,"phe","ekb","kb","phenotype knowledgebase","phenotype","","knowledgebase",2,"opaque","opaque",1006
+21507258,2011,"phemadb",7,"phe","adb","db","phenotype microarray database","phenotype","microarray","database",3,"opaque","opaque",1006
+32646415,2020,"eccparacorp",11,"ecc","orp","rp","physician data query","physician","data","query",3,"opaque","opaque",1006
+23396298,2013,"pipemicrodb",11,"pip","odb","db","pigeonpea microsatellite database","pigeonpea","microsatellite","database",3,"opaque","opaque",1006
+28651001,2017,"pptfdb",6,"ppt","fdb","db","pigeonpea transcription factors database","pigeonpea","transcription factors","database",4,"opaque","opaque",1006
+34107869,2021,"pinir",5,"pin","nir","ir","pin-ii type pis information resource","pin-ii","type pis information","resource",6,"opaque","opaque",1006
+30245835,2018,"pgd",3,"pgd","pgd","gd","pineapple genomics database","pineapple","genomics","database",3,"opaque","opaque",1006
+31103066,2019,"pat",3,"pat","pat","at","placental atlas tool","placental","atlas","tool",3,"opaque","opaque",1006
+23426257,2013,"planform",8,"pla","orm","rm","planarian formalization","planarian","","formalization",2,"opaque","opaque",1006
+28053167,2017,"pcerbase",8,"pce","ase","se","plant cerna database","plant","cerna","database",3,"opaque","opaque",1006
+29040761,2018,"pcsd",4,"pcs","csd","sd","plant chromatin state database","plant","chromatin state","database",4,"opaque","opaque",1006
+33546584,2021,"plantannot",10,"pla","not","ot","plant co-expression annotation resource","plant","co-expression annotation","resource",5,"opaque","translucent",94
+23688397,2013,"planex",6,"pla","nex","ex","plant co-expression database","plant","co-expression","database",4,"opaque","opaque",1006
+33997360,2021,"pcpd",4,"pcp","cpd","pd","plant cytochrome p450 database","plant","cytochrome p450","database",4,"opaque","opaque",1006
+30364952,2019,"ped",3,"ped","ped","ed","plant editosome database","plant","editosome","database",3,"opaque","opaque",1006
+27987164,2017,"pgdbj",5,"pgd","dbj","bj","plant genome database japan","plant","genome database","japan",4,"opaque","opaque",1006
+23180799,2013,"pgdd",4,"pgd","gdd","dd","plant genome duplication database","plant","genome duplication","database",4,"opaque","opaque",1006
+34111777,2021,"pid",3,"pid","pid","id","plant intron database","plant","intron","database",3,"opaque","opaque",1006
+27742820,2017,"piece",5,"pie","ece","ce","plant intron exon comparison and evolution","plant","intron exon comparison and","evolution",6,"opaque","opaque",1006
+33079992,2021,"plncdb",6,"pln","cdb","db","plant long non-coding rna database","plant","long non-coding rna","database",6,"opaque","translucent",94
+31602478,2020,"pmiren",6,"pmi","ren","en","plant mirna encyclopedia","plant","mirna","encyclopedia",3,"opaque","translucent",94
+23725466,2013,"pmted",5,"pmt","ted","ed","plant mirna target expression database","plant","mirna target expression","database",5,"opaque","opaque",1006
+24174541,2014,"p-mite",6,"p-m","ite","te","plant mite database","plant","mite","database",3,"opaque","opaque",1006
+27924044,2017,"plamom",6,"pla","mom","om","plant mobile macromolecules","plant","mobile","macromolecules",3,"opaque","opaque",1006
+22058132,2012,"plantnatsdb",11,"pla","sdb","db","plant nat database","plant","nat","database",3,"opaque","transparent",17
+25398903,2015,"pnrd",4,"pnr","nrd","rd","plant ncrna database","plant","ncrna","database",3,"opaque","opaque",1006
+22369214,2012,"nsltpdb",7,"nsl","pdb","db","plant non-specific lipid transfer protein database","plant","non-specific lipid transfer protein","database",7,"opaque","translucent",94
+25505034,2015,"podc",4,"pod","odc","dc","plant omics data center","plant","omics data","center",4,"opaque","opaque",1006
+24092884,2014,"podb",4,"pod","odb","db","plant organelles database","plant","organelles","database",3,"opaque","opaque",1006
+30395277,2019,"plantpan",8,"pla","pan","an","plant promoter analysis navigator","plant","promoter analysis","navigator",4,"opaque","translucent",94
+27987179,2017,"ppdb",4,"ppd","pdb","db","plant promoter database","plant","promoter","database",3,"opaque","opaque",1006
+25435546,2015,"plant-pras",10,"pla","ras","as","plant protein annotation suite database","plant","protein annotation suite","database",5,"opaque","translucent",94
+24243849,2014,"p(3)db",6,"p(3",")db","db","plant protein phosphorylation database","plant","protein phosphorylation","database",4,"opaque","opaque",1006
+24980131,2014,"plant rdna",10,"pla","dna","na","plant rdna database","plant","rdna","database",3,"opaque","transparent",17
+31796964,2019,"prp",3,"prp","prp","rp","plant regulomics portal","plant","regulomics","portal",3,"opaque","opaque",1006
+23161682,2013,"prgdb",5,"prg","gdb","db","plant resistance genes database","plant","resistance genes","database",4,"opaque","opaque",1006
+28111365,2017,"plantrgdb",9,"pla","gdb","db","plant retrocopied gene database","plant","retrocopied gene","database",4,"opaque","translucent",94
+34059664,2021,"pssrd",5,"pss","srd","rd","plant ssr database","plant","ssr","database",3,"opaque","opaque",1006
+30587128,2018,"psrn",4,"psr","srn","rn","plant stress rna-seq nexus","plant","stress rna-seq","nexus",5,"opaque","opaque",1006
+34716373,2021,"ppmdb",5,"ppm","mdb","db","plantpathmarks","plantpathmarks",NA,"plantpathmarks",1,"opaque","opaque",1006
+24304897,2014,"ppd",3,"ppd","ppd","pd","plasma proteome database","plasma","proteome","database",3,"opaque","opaque",1006
+25593348,2015,"plasmogem",9,"pla","gem","em","plasmodium genetic modification","plasmodium","genetic","modification",3,"opaque","translucent",94
+31738435,2019,"pmbd",4,"pmb","mbd","bd","plastics microbial biodegradation database","plastics","microbial biodegradation","database",4,"opaque","opaque",1006
+25270086,2014,"pigd",4,"pig","igd","gd","poaceae intronless genes database","poaceae","intronless genes","database",4,"opaque","opaque",1006
+28966675,2017,"pogd",4,"pog","ogd","gd","poaceae orphan genes database","poaceae","orphan genes","database",4,"opaque","opaque",1006
+32895427,2020,"pcoskbr2",8,"pco","br2","r2","polycystic ovary syndrome knowledgebase","polycystic","ovary syndrome","knowledgebase",4,"opaque","opaque",1006
+22080514,2012,"polymirts",9,"pol","rts","ts","polymorphism in microrna target site","polymorphism","in microrna target","site",5,"opaque","translucent",94
+29077937,2018,"pickles",7,"pic","les","es","pooled in vitro crispr knockout library essentiality screens","pooled","in vitro crispr knockout library essentiality","screens",8,"opaque","opaque",1006
+25404129,2015,"possum",6,"pos","sum","um","possum drug search","possum","drug","search",3,"opaque","opaque",1006
+24857970,2014,"ptm-sd",6,"ptm","-sd","sd","posttranslational modification structural database","posttranslational","modification structural","database",4,"opaque","opaque",1006
+20672376,2011,"pfsnp",5,"pfs","snp","np","potentially functional snps","potentially","functional","snps",3,"opaque","translucent",94
+27789569,2017,"pmkb",4,"pmk","mkb","kb","precision medicine knowledge base","precision","medicine knowledge","base",4,"opaque","opaque",1006
+29530937,2018,"air",3,"air","air","ir","predicted arabidopsis interactome resource","predicted","arabidopsis interactome","resource",4,"opaque","opaque",1006
+32103267,2020,"pdir",4,"pdi","dir","ir","predicted drosophila interactome resource","predicted","drosophila interactome","resource",4,"opaque","opaque",1006
+29425804,2019,"peve",4,"pev","eve","ve","predicted endogenous viral elements","predicted","endogenous viral","elements",4,"opaque","opaque",1006
+26200753,2015,"pre_gi",6,"pre","_gi","gi","predicted genomic islands database","predicted","genomic islands","database",4,"opaque","opaque",1006
+23153078,2012,"p2tf",4,"p2t","2tf","tf","predicted prokaryotic transcription factors","predicted","prokaryotic transcription","factors",4,"opaque","opaque",1006
+33216897,2020,"prid",4,"pri","rid","id","predicted rat interactome database","predicted","rat interactome","database",4,"opaque","opaque",1006
+32542382,2020,"prmdb",5,"prm","mdb","db","predicted rna modifications in plants","predicted","rna modifications in","plants",5,"opaque","opaque",1006
+29855811,2018,"p-pal",5,"p-p","pal","al","procura-palavras","procura-palavras",NA,"procura-palavras",2,"opaque","opaque",1006
+31620779,2020,"pads",4,"pad","ads","ds","prokaryotic antiviral defense system arsenal","prokaryotic","antiviral defense system","arsenal",5,"opaque","opaque",1006
+22096236,2012,"proopdb",7,"pro","pdb","db","prokaryotic operon database","prokaryotic","operon","database",3,"opaque","opaque",1006
+33539888,2021,"ppd",3,"ppd","ppd","pd","prokaryotic promoter database","prokaryotic","promoter","database",3,"opaque","opaque",1006
+25324303,2015,"p2cs",4,"p2c","2cs","cs","prokaryotic two-component systems database","prokaryotic","two-component systems","database",5,"opaque","opaque",1006
+27789703,2017,"pvogs",5,"pvo","ogs","gs","prokaryotic virus orthologous groups","prokaryotic","virus orthologous","groups",4,"opaque","opaque",1006
+21765097,2011,"pgat",4,"pga","gat","at","prokaryotic-genome analysis tool","prokaryotic-genome","analysis","tool",4,"opaque","opaque",1006
+32190163,2020,"plsd",4,"pls","lsd","sd","prospective lynch syndrome database","prospective","lynch syndrome","database",4,"opaque","opaque",1006
+23696878,2013,"pepid",5,"pep","pid","id","prostate epigenetic database","prostate","epigenetic","database",3,"opaque","opaque",1006
+23868073,2013,"panther",7,"pan","her","er","protein analysis through evolutionary relationships","protein","analysis through evolutionary","relationships",5,"opaque","opaque",1006
+22674824,2012,"pcddb",5,"pcd","ddb","db","protein circular dichroism data bank","protein","circular dichroism data","bank",5,"opaque","opaque",1006
+22800569,2013,"pcbost",6,"pcb","ost","st","protein classification based on structural trees","protein","classification based on structural","trees",6,"opaque","opaque",1006
+28011869,2017,"pcom-db",7,"pco","-db","db","protein co-migration database","protein","co-migration","database",4,"opaque","opaque",1006
+31584092,2020,"pdbe-kb",7,"pdb","-kb","kb","protein data bank in europe-knowledge base","protein","data bank in europe-knowledge","base",7,"opaque","opaque",1006
+21976737,2012,"pdbj",4,"pdb","dbj","bj","protein data bank japan","protein","data bank","japan",4,"opaque","opaque",1006
+23203988,2013,"pdbtm",5,"pdb","btm","tm","protein data bank of transmembrane proteins","protein","data bank of transmembrane","proteins",6,"opaque","opaque",1006
+33305318,2021,"ped",3,"ped","ped","ed","protein ensemble database","protein","ensemble","database",3,"opaque","opaque",1006
+26673716,2016,"pfam",4,"pfa","fam","am","protein families database","protein","families","database",3,"opaque","opaque",1006
+30733462,2019,"pfdb",4,"pfd","fdb","db","protein folding kinetics database","protein","folding kinetics","database",4,"opaque","opaque",1006
+23772554,2013,"primos",6,"pri","mos","os","protein interaction and molecule search","protein","interaction and molecule","search",5,"opaque","opaque",1006
+22067443,2012,"pina",4,"pin","ina","na","protein interaction network analysis","protein","interaction network","analysis",4,"opaque","opaque",1006
+25252779,2015,"pip-db",6,"pip","-db","db","protein isoelectric point database","protein","isoelectric point","database",4,"opaque","opaque",1006
+29662024,2018,"pkidb",5,"pki","idb","db","protein kinase inhibitor database","protein","kinase inhibitor","database",4,"opaque","opaque",1006
+28529077,2017,"plmd",4,"plm","lmd","md","protein lysine modification database","protein","lysine modification","database",4,"opaque","opaque",1006
+23624946,2013,"pmp",3,"pmp","pmp","mp","protein model portal","protein","model","portal",3,"opaque","opaque",1006
+21031599,2011,"pro-mine",8,"pro","ine","ne","protein mutations in neurodegeneration","protein","mutations in","neurodegeneration",4,"opaque","opaque",1006
+26339475,2015,"swisspalm",9,"swi","alm","lm","protein palmitoylation database","protein","palmitoylation","database",3,"opaque","opaque",1006
+26225242,2015,"phin",4,"phi","hin","in","protein pharmacology interaction network database","protein","pharmacology interaction network","database",5,"opaque","opaque",1006
+22080505,2012,"pscdb",5,"psc","cdb","db","protein structural change database","protein","structural change","database",4,"opaque","opaque",1006
+22669905,2012,"psc",3,"psc","psc","sc","protein surface classification","protein","surface","classification",3,"opaque","opaque",1006
+22589183,2012,"prdb",4,"prd","rdb","db","protein tandem repeat database","protein","tandem repeat","database",4,"opaque","opaque",1006
+32119071,2020,"procaff",7,"pro","aff","ff","protein-carbohydrate complex binding affinity database","protein-carbohydrate","complex binding affinity","database",6,"opaque","opaque",1006
+26504143,2016,"pdid",4,"pdi","did","id","protein-drug interaction database","protein-drug","interaction","database",4,"opaque","opaque",1006
+34504668,2021,"pen",3,"pen","pen","en","protein-gene expression nexus","protein-gene","expression","nexus",4,"opaque","opaque",1006
+26620522,2016,"ppim",4,"ppi","pim","im","protein-protein interaction database for maize","protein-protein","interaction database for","maize",6,"opaque","opaque",1006
+30127348,2018,"ppins",5,"ppi","ins","ns","protein-protein interaction sitesbase","protein-protein","interaction","sitesbase",4,"opaque","opaque",1006
+21063943,2011,"pride",5,"pri","ide","de","proteomics identifications database","proteomics","identifications","database",3,"opaque","opaque",1006
+23193267,2013,"pr(2)",5,"pr(","(2)","2)","protist ribosomal reference database","protist","ribosomal reference","database",4,"opaque","opaque",1006
+30217145,2018,"ppgd",4,"ppg","pgd","gd","pseudocohnilembus persalinus genome database","pseudocohnilembus","persalinus genome","database",4,"opaque","opaque",1006
+29106626,2018,"pambd",5,"pam","mbd","bd","pseudomonas aeruginosa metabolome database","pseudomonas","aeruginosa metabolome","database",4,"opaque","opaque",1006
+25964630,2015,"psygenet",8,"psy","net","et","psychiatric disorders and genes association network","psychiatric","disorders and genes association","network",6,"translucent","translucent",17
+24340041,2013,"pogs2",5,"pog","gs2","s2","putative orthologous groups 2 database","putative","orthologous groups 2","database",5,"opaque","opaque",1006
+33002111,2020,"pydish",6,"pyd","ish","sh","python-based database and analyzer for distortion of heme porphyrin","python-based","database and analyzer for distortion of heme","porphyrin",10,"opaque","opaque",1006
+24715219,2014,"qap",3,"qap","qap","ap","quail anatomy portal","quail","anatomy","portal",3,"opaque","opaque",1006
+21656910,2011,"quad",4,"qua","uad","ad","quantitative assay database","quantitative","assay","database",3,"opaque","opaque",1006
+31868683,2020,"qpn",3,"qpn","qpn","pn","quebec parkinson network","quebec","parkinson","network",3,"opaque","opaque",1006
+34559210,2021,"qsdb",4,"qsd","sdb","db","quorum sensing database","quorum","sensing","database",3,"opaque","opaque",1006
+33003203,2021,"qsidb",5,"qsi","idb","db","quorum sensing interference molecules","quorum","sensing interference","molecules",4,"opaque","opaque",1006
+26912951,2015,"rdis",4,"rdi","dis","is","rabies disease information system","rabies","disease information","system",4,"opaque","opaque",1006
+33399824,2021,"bnagvd",6,"bna","gvd","vd","rapeseed genomic variation database","rapeseed","genomic variation","database",4,"opaque","translucent",94
+21729256,2011,"rasond",6,"ras","ond","nd","ras oncogene database","ras","oncogene","database",3,"opaque","opaque",1006
+30453895,2018,"ratemirs",8,"rat","irs","rs","rat atlas of tissue-specific and enriched mirnas","rat","atlas of tissue-specific and enriched","mirnas",8,"opaque","translucent",94
+21296746,2011,"rgd",3,"rgd","rgd","gd","rat genome database","rat","genome","database",3,"opaque","opaque",1006
+27794042,2017,"rcsb pdb",8,"rcs","pdb","db","rcsb protein data bank","rcsb","protein data","bank",4,"opaque","opaque",1006
+28850115,2017,"refex",5,"ref","fex","ex","reference expression dataset","reference","expression","dataset",3,"opaque","opaque",1006
+24259432,2014,"refseq",6,"ref","seq","eq","reference sequence database","reference","sequence","database",3,"opaque","opaque",1006
+26975833,2016,"regene",6,"reg","ene","ne","regeneration gene database","regeneration","gene","database",3,"opaque","translucent",94
+26478709,2015,"rams",4,"ram","ams","ms","register of antarctic marine species","register","of antarctic marine","species",5,"opaque","opaque",1006
+26876983,2016,"raar",4,"raa","aar","ar","regulators of androgen action resource","regulators","of androgen action","resource",5,"opaque","opaque",1006
+22608002,2012,"rcdb",4,"rcd","cdb","db","renal cancer gene database","renal","cancer gene","database",4,"opaque","opaque",1006
+25252782,2014,"rged",4,"rge","ged","ed","renal gene expression database","renal","gene expression","database",4,"opaque","opaque",1006
+21938212,2011,"rids db",7,"rid","db","db","repeats in diseases database","repeats","in diseases","database",4,"opaque","opaque",1006
+22140215,2011,"rac",3,"rac","rac","ac","repository of antibiotic resistance cassettes","repository","of antibiotic resistance","cassettes",5,"opaque","opaque",1006
+30794542,2019,"respire",7,"res","ire","re","repository of enriched structures of proteins involved in the red blood cell environment","repository","of enriched structures of proteins involved in the red blood cell","environment",13,"opaque","opaque",1006
+28862214,2017,"respcandb",9,"res","ndb","db","respiratory cancer database","respiratory","cancer","database",3,"opaque","translucent",94
+27377064,2016,"rid",3,"rid","rid","id","retrovirus integration database","retrovirus","integration","database",3,"opaque","opaque",1006
+34022814,2021,"rpgd",4,"rpg","pgd","gd","rhododendron plant genome database","rhododendron","plant genome","database",4,"opaque","opaque",1006
+24288368,2014,"rdp",3,"rdp","rdp","dp","ribosomal database project","ribosomal","database","project",3,"opaque","opaque",1006
+25414355,2015,"rrndb",5,"rrn","ndb","db","ribosomal rna operon copy number database","ribosomal","rna operon copy number","database",6,"opaque","opaque",1006
+23299411,2013,"rap-db",6,"rap","-db","db","rice annotation project database","rice","annotation project","database",4,"opaque","opaque",1006
+28529082,2017,"red",3,"red","red","ed","rice expression database","rice","expression","database",3,"opaque","opaque",1006
+23193278,2013,"rgkbase",7,"rgk","ase","se","rice genome knowledgebase","rice","genome","knowledgebase",3,"opaque","opaque",1006
+24279809,2012,"road",4,"roa","oad","ad","rice oligonucleotide array database","rice","oligonucleotide array","database",4,"opaque","opaque",1006
+27940610,2017,"rpan",4,"rpa","pan","an","rice pan-genome browser","rice","pan-genome","browser",4,"opaque","opaque",1006
+31872320,2019,"rsrs",4,"rsr","srs","rs","rice stress-resistant snp database","rice","stress-resistant snp","database",5,"opaque","opaque",1006
+29989091,2018,"ricyerdb",8,"ric","rdb","db","rice yield-related database","rice","yield-related","database",4,"opaque","opaque",1006
+33068412,2021,"rasp",4,"ras","asp","sp","rna atlas of structure probing","rna","atlas of structure","probing",5,"opaque","opaque",1006
+22127861,2012,"rna cossmos",11,"rna","mos","os","rna characterization of secondary structure motifs","rna","characterization of secondary structure","motifs",6,"translucent","translucent",17
+32345346,2020,"repic",5,"rep","pic","ic","rna epitranscriptome collection","rna","epitranscriptome","collection",3,"opaque","opaque",1006
+22976082,2012,"rmdb",4,"rmd","mdb","db","rna mapping database","rna","mapping","database",3,"opaque","opaque",1006
+29040692,2018,"rmbase",6,"rmb","ase","se","rna modification base","rna","modification","base",3,"opaque","opaque",1006
+28077569,2017,"rain",4,"rai","ain","in","rna-protein association and interaction networks","rna-protein","association and interaction","networks",6,"opaque","opaque",1006
+29028888,2018,"rrdb",4,"rrd","rdb","db","rna-rna docking benchmark","rna-rna","docking","benchmark",4,"opaque","opaque",1006
+21586118,2011,"rcgdb",5,"rcg","gdb","db","roche cancer genome database","roche","cancer genome","database",4,"opaque","opaque",1006
+32849839,2020,"rigd",4,"rig","igd","gd","rosaceae intronless genes database","rosaceae","intronless genes","database",4,"opaque","opaque",1006
+22110037,2012,"sgd",3,"sgd","sgd","gd","saccharomyces genome database","saccharomyces","genome","database",3,"opaque","opaque",1006
+25881271,2015,"stpd",4,"stp","tpd","pd","salinity tolerant poplar database","salinity","tolerant poplar","database",4,"opaque","opaque",1006
+22493538,2012,"ssa mirnas db",13,"ssa","db","db","salmo salar mirnas database","salmo","salar mirnas","database",4,"opaque","translucent",94
+26800248,2016,"sistr",5,"sis","str","tr","salmonella in silico typing resource","salmonella","in silico typing","resource",5,"opaque","opaque",1006
+32709339,2020,"smsd",4,"sms","msd","sd","saponin mass spectrometry database","saponin","mass spectrometry","database",4,"opaque","opaque",1006
+33553941,2021,"sarscovidb",10,"sar","idb","db","sars-cov-2 infection database","sars-cov-2","infection","database",5,"opaque","transparent",17
+29774137,2018,"sacpd",5,"sac","cpd","pd","saudi anti-human cancer plants database","saudi","anti-human cancer plants","database",6,"opaque","opaque",1006
+32813752,2020,"svad",4,"sva","vad","ad","scd-associated variants annotation database","scd-associated","variants annotation","database",5,"opaque","opaque",1006
+26138588,2015,"smedgd",6,"sme","dgd","gd","schmidtea mediterranea genome database","schmidtea","mediterranea genome","database",4,"opaque","opaque",1006
+33459764,2021,"switches",8,"swi","hes","es","searchable web interface for topologies of chemical switches","searchable","web interface for topologies of chemical","switches",8,"opaque","opaque",1006
+21423723,2011,"swmd",4,"swm","wmd","md","seaweed metabolite database","seaweed","metabolite","database",3,"opaque","opaque",1006
+29062930,2016,"smbp",4,"smb","mbp","bp","secondary metabolite bioinformatics portal","secondary","metabolite bioinformatics","portal",4,"opaque","opaque",1006
+22701460,2012,"spwp",4,"spw","pwp","wp","seed proteome web portal","seed","proteome web","portal",4,"opaque","opaque",1006
+29309507,2019,"segreg",6,"seg","reg","eg","seg regulation database","seg","regulation","database",3,"opaque","opaque",1006
+30202870,2019,"sequenceng",10,"seq","eng","ng","sequencing techniques engine for genomics","sequencing","techniques engine for","genomics",5,"opaque","translucent",94
+23724943,2013,"sgwhc",5,"sgw","whc","hc","sex and gender women's health collaborative","sex","and gender women's health","collaborative",7,"opaque","opaque",1006
+30714194,2019,"sdred",5,"sdr","red","ed","short-chain dehydrogenases/reductases engineering database","short-chain","dehydrogenases/reductases engineering","database",6,"opaque","opaque",1006
+24952385,2014,"shrimpgpat",10,"shr","pat","at","shrimp gene and protein annotation tool","shrimp","gene and protein annotation","tool",6,"translucent","translucent",17
+26467481,2016,"signor",6,"sig","nor","or","signaling network open resource","signaling","network open","resource",4,"opaque","opaque",1006
+31672983,2019,"spp",3,"spp","spp","pp","signaling pathways project","signaling","pathways","project",3,"opaque","opaque",1006
+33645624,2021,"kaikobase",9,"kai","ase","se","silkworm genome database","silkworm","genome","database",3,"opaque","opaque",1006
+28365723,2017,"silkpathdb",10,"sil","hdb","db","silkworm pathogen database","silkworm","pathogen","database",3,"opaque","translucent",94
+24165881,2014,"simap",5,"sim","map","ap","similarity matrix of proteins","similarity","matrix of","proteins",4,"opaque","opaque",1006
+29040681,2018,"smart",5,"sma","art","rt","simple modular architecture research tool","simple","modular architecture research","tool",5,"opaque","opaque",1006
+22759918,2012,"sskb",4,"ssk","skb","kb","sjgren's syndrome knowledge base","sjgren's","syndrome knowledge","base",5,"opaque","opaque",1006
+29059366,2018,"sbcddb",6,"sbc","ddb","db","sleeping beauty cancer driver database","sleeping","beauty cancer driver","database",5,"opaque","opaque",1006
+27297221,2016,"shspdb",6,"shs","pdb","db","small heat shock proteins database","small","heat shock proteins","database",5,"opaque","opaque",1006
+24203708,2014,"smpdb",5,"smp","pdb","db","small molecule pathway database","small","molecule pathway","database",4,"opaque","opaque",1006
+34536568,2021,"smprot",6,"smp","rot","ot","small proteins database","small","proteins","database",3,"opaque","opaque",1006
+29733404,2018,"spar",4,"spa","par","ar","small rna-seq portal for analysis of sequencing experiments","small","rna-seq portal for analysis of sequencing","experiments",9,"opaque","opaque",1006
+30674925,2019,"smtb",4,"smt","mtb","tb","smooth muscle transcriptome browser","smooth","muscle transcriptome","browser",4,"opaque","opaque",1006
+24148649,2013,"snopy",5,"sno","opy","py","snorna orthological gene database","snorna","orthological gene","database",4,"opaque","opaque",1006
+25428362,2015,"sgn",3,"sgn","sgn","gn","sol genomics network","sol","genomics","network",3,"opaque","opaque",1006
+34344425,2021,"sorgsd",6,"sor","gsd","sd","sorghum genome snp database","sorghum","genome snp","database",4,"opaque","opaque",1006
+26097510,2015,"sancdb",6,"san","cdb","db","south african natural compounds database","south","african natural compounds","database",5,"opaque","opaque",1006
+24504151,2014,"saturn",6,"sat","urn","rn","southern african treatment resistance network","southern","african treatment resistance","network",5,"opaque","opaque",1006
+24712981,2014,"sfgd",4,"sfg","fgd","gd","soybean functional genomics database","soybean","functional genomics","database",4,"opaque","opaque",1006
+24136998,2014,"soykb",5,"soy","ykb","kb","soybean knowledge base","soybean","knowledge","base",3,"opaque","translucent",94
+23423175,2013,"soyprodb",8,"soy","odb","db","soybean protein database","soybean","protein","database",3,"opaque","translucent",94
+22661982,2012,"spd",3,"spd","spd","pd","soybean proteome database","soybean","proteome","database",3,"opaque","opaque",1006
+33231322,2021,"soytd",5,"soy","ytd","td","soybean transporter database","soybean","transporter","database",3,"opaque","translucent",94
+32976581,2021,"stab",4,"sta","tab","ab","spatio-temporal cell atlas of the human brain","spatio-temporal","cell atlas of the human","brain",8,"opaque","opaque",1006
+28420402,2017,"sser",4,"sse","ser","er","species specific essential reactions database","species","specific essential reactions","database",5,"opaque","opaque",1006
+30602089,2018,"stadium",7,"sta","ium","um","species-specific trna adaptive index compendium","species-specific","trna adaptive index","compendium",6,"opaque","opaque",1006
+24531082,2014,"smal",4,"sma","mal","al","spontaneous mutation accumulation lines","spontaneous","mutation accumulation","lines",4,"opaque","opaque",1006
+23180763,2013,"seva-db",7,"sev","-db","db","standard european vector architecture","standard","european vector","architecture",4,"opaque","opaque",1006
+25805861,2015,"srd",3,"srd","srd","rd","staphylococcal regulatory rna database","staphylococcal","regulatory rna","database",4,"opaque","opaque",1006
+22121217,2012,"scde",4,"scd","cde","de","stem cell discovery engine","stem","cell discovery","engine",4,"opaque","opaque",1006
+28888135,2017,"strseq",6,"str","seq","eq","str sequencing project","str","sequencing","project",3,"opaque","opaque",1006
+25269378,2014,"spgdb",5,"spg","gdb","db","streptococcus pneumoniae genome database","streptococcus","pneumoniae genome","database",4,"opaque","opaque",1006
+23284744,2012,"strap",5,"str","rap","ap","stress response array profiler","stress","response array","profiler",4,"opaque","opaque",1006
+24214988,2014,"sabdab",6,"sab","dab","ab","structural antibody database","structural","antibody","database",3,"opaque","opaque",1006
+21472436,2011,"sbkb",4,"sbk","bkb","kb","structural biology knowledgebase","structural","biology","knowledgebase",3,"opaque","opaque",1006
+31724711,2020,"scop",4,"sco","cop","op","structural classification of proteins","structural","classification of","proteins",4,"opaque","opaque",1006
+24304899,2014,"scope",5,"sco","ope","pe","structural classification of proteins-extended","structural","classification of","proteins-extended",5,"opaque","opaque",1006
+29087479,2018,"stcrdab",7,"stc","dab","ab","structural t-cell receptor database","structural","t-cell receptor","database",5,"opaque","opaque",1006
+30721533,2019,"simplod",7,"sim","lod","od","structurally-integrated database for mutations of plod genes","structurally-integrated","database for mutations of plod","genes",8,"opaque","opaque",1006
+23203869,2013,"sifts",5,"sif","fts","ts","structure integration with function, taxonomy and sequences resource","structure","integration with function, taxonomy and sequences","resource",8,"opaque","opaque",1006
+24271399,2014,"sfld",4,"sfl","fld","ld","structure-function linkage database","structure-function","linkage","database",4,"opaque","opaque",1006
+21292827,2011,"ssfa-gphr",9,"ssf","phr","hr","structure-function-analysis of glycoprotein hormone receptors","structure-function-analysis","of glycoprotein hormone","receptors",7,"opaque","opaque",1006
+27899614,2017,"suba4",5,"sub","ba4","a4","subcellular location database for arabidopsis proteins","subcellular","location database for arabidopsis","proteins",6,"opaque","opaque",1006
+26578594,2016,"sea",3,"sea","sea","ea","super-enhancer archive","super-enhancer","","archive",3,"opaque","opaque",1006
+21575179,2011,"sorgodb",7,"sor","odb","db","superoxide reductase gene ontology curated database","superoxide","reductase gene ontology curated","database",6,"opaque","opaque",1006
+32761141,2020,"spdb",4,"spd","pdb","db","swine pathogen database","swine","pathogen","database",3,"opaque","opaque",1006
+27899672,2017,"smr",3,"smr","smr","mr","swiss-model repository","swiss-model","","repository",3,"opaque","opaque",1006
+32621601,2020,"sager",5,"sag","ger","er","symbiodiniaceae and algal genomic resource database","symbiodiniaceae","and algal genomic resource","database",6,"opaque","opaque",1006
+32055857,2020,"symgendb",8,"sym","ndb","db","symbiotic genomes database","symbiotic","genomes","database",3,"opaque","translucent",94
+33177514,2020,"savi",4,"sav","avi","vi","synthetically accessible virtual inventory","synthetically","accessible virtual","inventory",4,"opaque","opaque",1006
+24323624,2014,"sabre",5,"sab","bre","re","systematic consolidation of arabidopsis and other botanical resources","systematic","consolidation of arabidopsis and other botanical","resources",8,"opaque","opaque",1006
+23730305,2013,"sgr",3,"sgr","sgr","gr","systems genetics resource","systems","genetics","resource",3,"opaque","opaque",1006
+27412095,2016,"ssbd",4,"ssb","sbd","bd","systems science of biological dynamics database","systems","science of biological dynamics","database",6,"opaque","opaque",1006
+31240309,2019,"tcr3d",5,"tcr","r3d","3d","t cell receptor structural repertoire database","t","cell receptor structural repertoire","database",6,"opaque","opaque",1006
+32882008,2021,"tbdb",4,"tbd","bdb","db","t-box riboswitch annotation database","t-box","riboswitch annotation","database",5,"opaque","opaque",1006
+33156327,2021,"tcrd",4,"tcr","crd","rd","target central resource database","target","central resource","database",4,"opaque","opaque",1006
+34679164,2021,"t-ardis",7,"t-a","dis","is","target-adverse reaction database integrated search","target-adverse","reaction database integrated","search",6,"opaque","opaque",1006
+33993461,2021,"tupdb",5,"tup","pdb","db","target-unrelated peptide data bank","target-unrelated","peptide data","bank",5,"opaque","opaque",1006
+26131021,2015,"taxkb",5,"tax","xkb","kb","taxane knowledge base","taxane","knowledge","base",3,"opaque","opaque",1006
+25224438,2014,"tmdb",4,"tmd","mdb","db","tea metabolome database","tea","metabolome","database",3,"opaque","opaque",1006
+30913342,2019,"tpia",4,"tpi","pia","ia","tea plant information archive","tea","plant information","archive",4,"opaque","opaque",1006
+25792605,2015,"telopin",7,"tel","pin","in","telomeric proteins interaction network","telomeric","proteins interaction","network",4,"opaque","opaque",1006
+32727974,2020,"tempura",7,"tem","ura","ra","temperatures of usual and rare prokaryotes","temperatures","of usual and rare","prokaryotes",6,"opaque","opaque",1006
+32265943,2020,"toast",5,"toa","ast","st","test of arabidopsis space transcriptome","test","of arabidopsis space","transcriptome",5,"opaque","opaque",1006
+30810209,2019,"tcgd",4,"tcg","cgd","gd","tetrahymena comparative genomics database","tetrahymena","comparative genomics","database",4,"opaque","opaque",1006
+23482072,2013,"tetrafgd",8,"tet","fgd","gd","tetrahymena functional genomics database","tetrahymena","functional genomics","database",4,"opaque","opaque",1006
+21253873,2011,"tged",4,"tge","ged","ed","tetrahymena gene expression database","tetrahymena","gene expression","database",4,"opaque","opaque",1006
+22434841,2012,"tgd",3,"tgd","tgd","gd","tetrahymena genome database","tetrahymena","genome","database",3,"opaque","opaque",1006
+23406793,2013,"t-hod",5,"t-h","hod","od","text-mined hypertension, obesity and diabetes candidate gene database","text-mined","hypertension, obesity and diabetes candidate gene","database",9,"opaque","opaque",1006
+33258964,2020,"thrsdb",6,"thr","sdb","db","thai rice starch database","thai","rice starch","database",4,"opaque","opaque",1006
+21383924,2011,"tami",4,"tam","ami","mi","the antimicrobial index","the","antimicrobial","index",3,"opaque","opaque",1006
+22140109,2012,"tair",4,"tai","air","ir","the arabidopsis information resource","the","arabidopsis information","resource",4,"opaque","opaque",1006
+26208906,2015,"tanric",6,"tan","ric","ic","the atlas of noncoding rnas in cancer","the","atlas of noncoding rnas in","cancer",7,"opaque","opaque",1006
+29157087,2018,"thanatos",8,"tha","tos","os","the autophagy, necrosis, apoptosis orchestrators","the","autophagy, necrosis, apoptosis","orchestrators",5,"opaque","opaque",1006
+30053266,2018,"tc3a",4,"tc3","c3a","3a","the cancer 3' utr atlas","the","cancer 3' utr","atlas",5,"opaque","opaque",1006
+31015229,2019,"tcea",4,"tce","cea","ea","the cancer editome atlas","the","cancer editome","atlas",4,"opaque","opaque",1006
+29092939,2017,"tcpa",4,"tcp","cpa","pa","the cancer proteome atlas","the","cancer proteome","atlas",4,"opaque","opaque",1006
+23093603,2013,"toppr",5,"top","ppr","pr","the online protein processing resource","the","online protein processing","resource",5,"opaque","opaque",1006
+23293959,2013,"3dmet",5,"3dm","met","et","three-dimensional structure database of natural metabolites","three-dimensional","structure database of natural","metabolites",7,"opaque","opaque",1006
+27168721,2016,"tccr",4,"tcc","ccr","cr","thyroid cancer and tumor collaborative registry","thyroid","cancer and tumor collaborative","registry",6,"opaque","opaque",1006
+29036590,2018,"tissgdb",7,"tis","gdb","db","tissue specific gene database in cancer","tissue","specific gene database in","cancer",6,"opaque","translucent",94
+27543790,2017,"tscd",4,"tsc","scd","cd","tissue-specific circrna database","tissue-specific","circrna","database",4,"opaque","opaque",1006
+31680168,2020,"tsea-db",7,"tse","-db","db","tissue-specific enrichment analysis database","tissue-specific","enrichment analysis","database",5,"opaque","opaque",1006
+24466070,2014,"tgrd",4,"tgr","grd","rd","tomato genomic resources database","tomato","genomic resources","database",4,"opaque","opaque",1006
+32829394,2020,"tgv",3,"tgv","tgv","gv","tomato genomic variation","tomato","genomic","variation",3,"opaque","opaque",1006
+25392424,2015,"topdb",5,"top","pdb","db","topology data bank of transmembrane proteins","topology","data bank of transmembrane","proteins",6,"opaque","opaque",1006
+23515433,2013,"tiara",5,"tia","ara","ra","total integrated archive of short-read and array","total","integrated archive of short-read and","array",8,"opaque","opaque",1006
+34407614,2021,"tap",3,"tap","tap","ap","tracking air pollution in china","tracking","air pollution in","china",5,"opaque","opaque",1006
+34273956,2021,"tcm-blast",9,"tcm","ast","st","traditional chinese medicine basic local alignment search tool","traditional","chinese medicine basic local alignment search","tool",8,"opaque","opaque",1006
+23203875,2013,"tcmid",5,"tcm","mid","id","traditional chinese medicine integrated database","traditional","chinese medicine integrated","database",5,"opaque","opaque",1006
+24735618,2014,"tcmsp",5,"tcm","msp","sp","traditional chinese medicine systems pharmacology database and analysis platform","traditional","chinese medicine systems pharmacology database and analysis","platform",9,"opaque","opaque",1006
+34244719,2021,"tidb",4,"tid","idb","db","trained immunity database","trained","immunity","database",3,"opaque","opaque",1006
+26066708,2015,"trrust",6,"trr","ust","st","transcriptional regulatory relationships unravelled by sentence-based text-mining","transcriptional","regulatory relationships unravelled by sentence-based","text-mining",9,"opaque","opaque",1006
+30846808,2019,"tacco",5,"tac","cco","co","transcriptome alterations in cancer omnibus","transcriptome","alterations in cancer","omnibus",5,"opaque","opaque",1006
+26578693,2016,"tenor",5,"ten","nor","or","transcriptome encyclopedia of rice","transcriptome","encyclopedia of","rice",4,"opaque","opaque",1006
+24675620,2014,"tibs",4,"tib","ibs","bs","transcriptome of irritable bowel syndrome","transcriptome","of irritable bowel","syndrome",5,"opaque","opaque",1006
+32277449,2020,"tgp",3,"tgp","tgp","gp","transgene promoters","transgene","","promoters",2,"opaque","opaque",1006
+23071747,2012,"trip",4,"tri","rip","ip","transient receptor potential channel-interacting protein database","transient","receptor potential channel-interacting protein","database",7,"opaque","opaque",1006
+21177659,2011,"tmpad",5,"tmp","pad","ad","transmembrane protein helix-packing database","transmembrane","protein helix-packing","database",5,"opaque","opaque",1006
+24225317,2014,"tcdb",4,"tcd","cdb","db","transporter classification database","transporter","classification","database",3,"opaque","opaque",1006
+32512488,2020,"ttrmdb",6,"ttr","mdb","db","transthyretin mutant database","transthyretin","mutant","database",3,"opaque","opaque",1006
+25413576,2014,"treeshrewdb",11,"tre","wdb","db","tree shrew database","tree","shrew","database",3,"opaque","transparent",17
+29234333,2017,"tassrdb",7,"tas","rdb","db","triticum aestivum ssr database","triticum","aestivum ssr","database",4,"opaque","opaque",1006
+25324314,2015,"ttsmi",5,"tts","smi","mi","tts mapping and integration","tts","mapping and","integration",4,"opaque","opaque",1006
+22209237,2012,"mtcid",5,"mtc","cid","id","tuberculosis clinical isolate genetic polymorphism database","tuberculosis","clinical isolate genetic polymorphism","database",6,"opaque","opaque",1006
+33179754,2021,"tisch",5,"tis","sch","ch","tumor immune single cell hub","tumor","immune single cell","hub",5,"opaque","opaque",1006
+33729437,2021,"tie",3,"tie","tie","ie","tumor isomir encyclopedia","tumor","isomir","encyclopedia",3,"opaque","opaque",1006
+23066107,2013,"tsgene",6,"tsg","ene","ne","tumor suppressor gene database","tumor","suppressor gene","database",4,"opaque","translucent",94
+30223042,2018,"tsnadb",6,"tsn","adb","db","tumor-specific neoantigen database","tumor-specific","neoantigen","database",4,"opaque","opaque",1006
+23226127,2012,"umcd",4,"umc","mcd","cd","ucla multimodal connectivity database","ucla","multimodal connectivity","database",4,"opaque","opaque",1006
+22080555,2012,"arcog",5,"arc","cog","og","ucsc archaeal genome browser","ucsc","archaeal genome","browser",4,"opaque","opaque",1006
+26199991,2015,"ucdb",4,"ucd","cdb","db","ulcerative colitis database","ulcerative","colitis","database",3,"opaque","opaque",1006
+22218860,2012,"unihi",5,"uni","ihi","hi","unified human interactome","unified","human","interactome",3,"opaque","opaque",1006
+23314752,2013,"univio",6,"uni","vio","io","uniformed viewer for integrated omics","uniformed","viewer for integrated","omics",5,"opaque","opaque",1006
+27813701,2017,"uncleprot",9,"unc","rot","ot","universal nuclear protein database of barley","universal","nuclear protein database of","barley",6,"opaque","translucent",94
+25378322,2015,"uniprobe",8,"uni","obe","be","universal pbm resource for oligonucleotide binding evaluation","universal","pbm resource for oligonucleotide binding","evaluation",7,"opaque","opaque",1006
+21447597,2011,"uniprotkb",9,"uni","tkb","kb","universal protein resource","universal","protein","resource",3,"translucent","translucent",17
+27242032,2016,"ursdb",5,"urs","sdb","db","universe of rna structures database","universe","of rna structures","database",5,"opaque","opaque",1006
+21876203,2011,"upb",3,"upb","upb","pb","urinary protein biomarker","urinary","protein","biomarker",3,"opaque","opaque",1006
+25935546,2015,"u-care",6,"u-c","are","re","user-friendly comprehensive antibiotic resistance repository of escherichia coli","user-friendly","comprehensive antibiotic resistance repository of escherichia","coli",9,"opaque","opaque",1006
+23568467,2013,"violin",6,"vio","lin","in","vaccine investigation and online information network","vaccine","investigation and online information","network",6,"opaque","opaque",1006
+33095866,2021,"varadb",6,"var","adb","db","variation annotation database","variation","annotation","database",3,"opaque","translucent",94
+22715306,2012,"vptd",4,"vpt","ptd","td","vegetable phytochemicals and their target database","vegetable","phytochemicals and their target","database",6,"opaque","opaque",1006
+28365718,2017,"verseda",7,"ver","eda","da","vertebrate secretome database","vertebrate","secretome","database",3,"opaque","opaque",1006
+24267744,2013,"vto",3,"vto","vto","to","vertebrate taxonomy ontology","vertebrate","taxonomy","ontology",3,"opaque","opaque",1006
+31837751,2019,"vetcot",6,"vet","cot","ot","veterinary trauma registry","veterinary","trauma","registry",3,"opaque","opaque",1006
+26644460,2016,"viggs",5,"vig","ggs","gs","vigna genome server","vigna","genome","server",3,"opaque","opaque",1006
+31245720,2018,"vpgd",4,"vpg","pgd","gd","vigs phenomics and functional genomics database","vigs","phenomics and functional genomics","database",6,"opaque","opaque",1006
+33594411,2021,"viralhostrangedb",16,"vir","edb","db","viral host range database","viral","host range","database",4,"opaque","transparent",17
+31598702,2020,"visdb",5,"vis","sdb","db","viral integration site database","viral","integration site","database",4,"opaque","opaque",1006
+22160653,2012,"vhot",4,"vho","hot","ot","viral microrna host target","viral","microrna host","target",4,"opaque","opaque",1006
+33094321,2021,"vptmdb",6,"vpt","mdb","db","viral posttranslational modification database","viral","posttranslational modification","database",4,"opaque","opaque",1006
+22735743,2012,"vip db",6,"vip","db","db","viral protein domain database","viral","protein domain","database",4,"opaque","opaque",1006
+21769196,2011,"vpdb",4,"vpd","pdb","db","viral protein structural database","viral","protein structural","database",4,"opaque","opaque",1006
+30465539,2018,"vcgdb",5,"vcg","gdb","db","virtual chinese genome database","virtual","chinese genome","database",4,"opaque","opaque",1006
+23734609,2013,"vammpire",8,"vam","ire","re","virtually aligned matched molecular pairs including receptor environment","virtually","aligned matched molecular pairs including receptor","environment",8,"opaque","opaque",1006
+22067448,2012,"vfdb",4,"vfd","fdb","db","virulence factor database","virulence","factor","database",3,"opaque","opaque",1006
+30265627,2018,"viperdb",7,"vip","rdb","db","virus particle explorer data base","virus","particle explorer data","base",5,"opaque","opaque",1006
+30593617,2019,"vipr",4,"vip","ipr","pr","virus pathogen resource","virus","pathogen","resource",3,"opaque","opaque",1006
+24304891,2014,"virus variation",15,"vir","ion","on","virus variation resource","virus","variation","resource",3,"opaque","transparent",17
+31274965,2019,"vms-share",9,"vms","are","re","visual mass-spec share","visual","mass-spec","share",4,"opaque","opaque",1006
+32509450,2020,"virdb",5,"vir","rdb","db","vitiligo information resource","vitiligo","information","resource",3,"opaque","opaque",1006
+27242836,2016,"vespucci",8,"ves","cci","ci","vitis expression studies platform using colombos compendia instances","vitis","expression studies platform using colombos compendia","instances",8,"opaque","opaque",1006
+32221380,2020,"weibi",5,"wei","ibi","bi","wei biological interactions database","wei","biological interactions","database",4,"opaque","opaque",1006
+33181826,2020,"wgvd",4,"wgv","gvd","vd","wheat genome variation database","wheat","genome variation","database",4,"opaque","opaque",1006
+25466819,2015,"watrefnet",9,"wat","net","et","white adipose tissue health reference network","white","adipose tissue health reference","network",6,"opaque","opaque",1006
+33216899,2020,"wcsdb",5,"wcs","sdb","db","wild coffee species database","wild","coffee species","database",4,"opaque","opaque",1006
+26078228,2015,"wfrgdb",6,"wfr","gdb","db","wood-formation related genes database","wood-formation","related genes","database",5,"opaque","opaque",1006
+33756618,2021,"wco-lite",8,"wco","ite","te","world catalogue of opiliones","world","catalogue of","opiliones",4,"opaque","opaque",1006
+32431267,2020,"wwarn",5,"wwa","arn","rn","worldwide antimalarial resistance network","worldwide","antimalarial resistance","network",4,"opaque","opaque",1006
+29533231,2018,"wwpdb",5,"wwp","pdb","db","worldwide protein data bank","worldwide","protein data","bank",4,"opaque","opaque",1006
+23172286,2013,"wddd",4,"wdd","ddd","dd","worm developmental dynamics database","worm","developmental dynamics","database",4,"opaque","opaque",1006
+24013926,2013,"xdb",3,"xdb","xdb","db","xeno-glycomics database","xeno-glycomics","","database",3,"opaque","opaque",1006
+23125366,2013,"xenbase",7,"xen","ase","se","xenopus model organism database","xenopus","model organism","database",4,"transparent","translucent",1
+23134687,2012,"ygd",3,"ygd","ygd","gd","yak genome database","yak","genome","database",3,"opaque","opaque",1006
+30048518,2018,"yarg",4,"yar","arg","rg","yeast arsenic-related genes","yeast","arsenic-related","genes",4,"opaque","opaque",1006
+27392072,2016,"ycrd",4,"ycr","crd","rd","yeast combinatorial regulation database","yeast","combinatorial regulation","database",4,"opaque","opaque",1006
+32738156,2020,"yir",3,"yir","yir","ir","yeast interactome resource","yeast","interactome","resource",3,"opaque","opaque",1006
+21492431,2011,"kid",3,"kid","kid","id","yeast kinase interaction database","yeast","kinase interaction","database",4,"opaque","opaque",1006
+22064855,2012,"ymdb",4,"ymd","mdb","db","yeast metabolome database","yeast","metabolome","database",3,"opaque","opaque",1006
+25522035,2014,"yna",3,"yna","yna","na","yeast nucleosome atlas","yeast","nucleosome","atlas",3,"opaque","opaque",1006
+34285772,2021,"ypibp",5,"ypi","ibp","bp","yeast phosphoinositide-binding proteins","yeast","phosphoinositide-binding","proteins",4,"opaque","opaque",1006
+25024351,2014,"ystrex",6,"yst","rex","ex","yeast stress expression database","yeast","stress expression","database",4,"opaque","opaque",1006
+22102575,2012,"yetfasco",8,"yet","sco","co","yeast transcription factor specificity compendium","yeast","transcription factor specificity","compendium",5,"opaque","translucent",94
+24608172,2014,"ytrp",4,"ytr","trp","rp","yeast transcriptional regulatory pathway","yeast","transcriptional regulatory","pathway",4,"opaque","opaque",1006
+22325123,2012,"yadamp",6,"yad","amp","mp","yet another database of antimicrobial peptides","yet","another database of antimicrobial","peptides",6,"opaque","opaque",1006
+23411719,2013,"yy1targetdb",11,"yy1","tdb","db","yin yang 1 target loci database","yin","yang 1 target loci","database",6,"opaque","translucent",94
+23180778,2013,"zinc",4,"zin","inc","nc","zebrafish insertion collection","zebrafish","insertion","collection",3,"opaque","opaque",1006
+23074187,2013,"zfin",4,"zfi","fin","in","zebrafish model organism database","zebrafish","model organism","database",4,"opaque","opaque",1006
+27097230,2016,"signafish",9,"sig","ish","sh","zebrafish-specific signaling pathway resource","zebrafish-specific","signaling pathway","resource",5,"translucent","translucent",17
+31512145,2020,"zikavid",7,"zik","vid","id","zika virus infection database","zika","virus infection","database",4,"opaque","opaque",1006
+23203887,2013,"zifdb",5,"zif","fdb","db","zinc finger database","zinc","finger","database",3,"opaque","opaque",1006
+21276248,2011,"zfngenome",9,"zfn","ome","me","zinc finger nuclease genome","zinc","finger nuclease","genome",4,"translucent","translucent",17
