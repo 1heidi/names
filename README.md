@@ -1,4 +1,4 @@
-# Analyzing Naming Conventions in Life Science Data Resources to Improve Findability for Humans and Machines
+# Naming Conventions of Biodata Resources
 
 ### Purpose: Analysis of full and common names predicted in the Global Biodata Coalition Inventory (2022)
   * Started with inventory:
