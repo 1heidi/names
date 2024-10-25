@@ -12,10 +12,10 @@
        * pubYear: year the associated article was published
        * best_common: validated common name 
        * best_full: validated full name
-       * stat: clarity classification for best_common
-       * bio: clarity classification for best_common
+       * stat: clarity classification for best_common as determined by a statistician
+       * bio: clarity classification for best_common as determined by a biologist
   * STEP 1 Script
-    * Analyzed characters count and prefixes for validated common names
+    * Analyzed character count and prefixes for validated common names
   * STEP 2 Script
     * Analyzed word count and first/last word for validated full names
   * STEP 3 Script
