@@ -2,8 +2,22 @@
 
 ### Purpose: Analysis of full and common names predicted in the Global Biodata Coalition Inventory (2022)
   * Started with inventory:
-      * Imker, H., Schackart, K., Istrate, A.-M., & Cook, C. E. (2023). Biodata Resource Inventory Dataset [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10105948
-  * Filtered to resources with both a common and a full name predicted and names validated (names_input.csv)
-  * Analysed for character/word count (STEP 1 and STEP 2 Scripts)
-  * Common names were coded for optics and compared in an agreement matrix (STEP 3 Script)
+     * Imker, H., Schackart, K., Istrate, A.-M., & Cook, C. E. (2023). Biodata Resource Inventory Dataset [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10105948
+  * Filtered to resources with both a common and a full name predicted
+  * Each name pair checked and corrected as needed (validated)
+  * Validated common names were coded for optics (opaque, translucent, or transparent) 
+  * Input file: names_input.csv
+     * **Variables**
+       * ID: PMCID for resource's most recent paper, as of 2021
+       * pubYear: year the associated article was published
+       * best_common: validated common name 
+       * best_full: validated full name
+       * stat: clarity classification for best_common
+       * bio: clarity classification for best_common
+  * STEP 1 Script
+    * Analyzed characters count and prefixes for validated common names
+  * STEP 2 Script
+    * Analyzed word count and first/last word for validated full names
+  * STEP 3 Script
+   * Compared clearity classifications in an agreement matrix
 
