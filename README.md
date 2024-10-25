@@ -16,8 +16,11 @@
        * bio: clarity classification for best_common as determined by a biologist
   * STEP 1 Script
     * Analyzed character count and prefixes for validated common names
+    * Output: names_output_common.csv and Figure 1
   * STEP 2 Script
     * Analyzed word count and first/last word for validated full names
+    * Output: names_output_common_full.csv and Figure 3
   * STEP 3 Script
    * Compared clearity classifications in an agreement matrix
+   * Output: names_output_common_full_optics.csv and Figure 2
 
