@@ -8,7 +8,7 @@
   * Validated common names were coded for optics (opaque, translucent, or transparent) 
   * Input file: names_input.csv
      * **Variables**
-       * ID: PMCID for resource's most recent paper, as of 2021
+       * ID: PMCID for resource's most recent article as of 2021
        * pubYear: year the associated article was published
        * best_common: validated common name 
        * best_full: validated full name
