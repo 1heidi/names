@@ -1,5 +1,5 @@
 # Naming Conventions of Biodata Resources
-
+### A preprint of this study as been posted to bioRxiv "Analyzing the Naming Conventions of Life Science Data Resources to Inform Human and Computational Findability" https://doi.org/10.1101/2025.10.02.680112
 ### Purpose: Analysis of full and common names predicted in the Global Biodata Coalition Inventory (2022)
   * Started with inventory:
      * Imker, H., Schackart, K., Istrate, A.-M., & Cook, C. E. (2023). Biodata Resource Inventory Dataset [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10105948
